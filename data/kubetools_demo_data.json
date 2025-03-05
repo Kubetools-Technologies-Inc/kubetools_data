@@ -18,7 +18,9 @@
                 "name": "Grafana",
                 "link": "https://github.com/grafana/grafana",
                 "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 79.95,
                 "category_rank": 1
             },
@@ -29,7 +31,9 @@
                 "name": "Prometheus",
                 "link": "https://github.com/prometheus/prometheus",
                 "description": "The Prometheus monitoring system and time series database.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 71.75,
                 "category_rank": 2
             },
@@ -40,7 +44,9 @@
                 "name": "Scope",
                 "link": "https://github.com/weaveworks/scope",
                 "description": "Monitoring, visualisation & management for Docker & Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 27.62,
                 "category_rank": 3
             },
@@ -51,7 +57,9 @@
                 "name": "Thanos",
                 "link": "https://github.com/thanos-io/thanos",
                 "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project. https://thanos.io",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 19.79,
                 "category_rank": 4
             },
@@ -62,7 +70,9 @@
                 "name": "Kubeshark",
                 "link": "https://github.com/kubeshark/kubeshark",
                 "description": "TCPDump and Wireshark re-invented for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 10.78,
                 "category_rank": 5
             },
@@ -73,7 +83,9 @@
                 "name": "kurt",
                 "link": "https://github.com/soraro/kurt",
                 "description": "A Kubernetes plugin that gives context to what is restarting in your Kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 10.32,
                 "category_rank": 6
             },
@@ -84,7 +96,9 @@
                 "name": "Argus",
                 "link": "https://clustergarage.io/argus/docs/overview/",
                 "description": "This tool monitors changes in the filesystem on specified paths",
-                "publishDate": "2024-05-13T19:42:49.165Z",
+                "publishDate": {
+                    "$date": "2024-05-13T19:42:49.165Z"
+                },
                 "rankedScore": 3.39,
                 "category_rank": 7
             },
@@ -95,7 +109,9 @@
                 "name": "Kubetail",
                 "link": "https://github.com/johanhaleby/kubetail",
                 "description": "Bash script to tail Kubernetes logs from multiple pods at the same time",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.3,
                 "category_rank": 8
             },
@@ -106,7 +122,9 @@
                 "name": "Ksniff",
                 "link": "https://github.com/eldadru/ksniff",
                 "description": "Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.21,
                 "category_rank": 9
             },
@@ -117,7 +135,9 @@
                 "name": "Kuberhealthy",
                 "link": "https://github.com/kuberhealthy/kuberhealthy",
                 "description": "A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.22,
                 "category_rank": 10
             },
@@ -128,7 +148,9 @@
                 "name": "X.509 Certificate Exporter",
                 "link": "https://github.com/enix/x509-certificate-exporter/",
                 "description": "Watch certificates for expiration in Kubernetes Secrets and control-plane files. Alerts and dashboard available.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.16,
                 "category_rank": 11
             },
@@ -139,7 +161,9 @@
                 "name": "Kwatch",
                 "link": "https://github.com/abahmed/kwatch",
                 "description": "monitor & detect crashes in your Kubernetes(K8s) cluster instantly",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.95,
                 "category_rank": 12
             },
@@ -150,7 +174,9 @@
                 "name": "ktop",
                 "link": "https://github.com/vladimirvivien/ktop",
                 "description": "A top-like tool for your Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.77,
                 "category_rank": 13
             },
@@ -161,7 +187,9 @@
                 "name": "Kubernetes Job/CronJob Notifier",
                 "link": "https://github.com/sukeesh/k8s-job-notify",
                 "description": "This tool sends an alert to slack whenever there is a Kubernetes cronJob/Job failure/success",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.54,
                 "category_rank": 14
             },
@@ -172,7 +200,9 @@
                 "name": "Kube-Prometheus-Top [ kptop ]",
                 "link": "https://github.com/eslam-gomaa/kptop",
                 "description": "Monitoring for Kubernetes Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metircs",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.27,
                 "category_rank": 15
             },
@@ -183,7 +213,9 @@
                 "name": "Searchlight",
                 "link": "https://github.com/searchlight/searchlight",
                 "description": "Alerts for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.2,
                 "category_rank": 16
             },
@@ -194,7 +226,9 @@
                 "name": "KlusterView",
                 "link": "https://github.com/oslabs-beta/KlusterView",
                 "description": "Get instant insights on your Kubernetes clusters with our lightweight, plug-and-play performance monitoring tool",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.14,
                 "category_rank": 17
             },
@@ -205,7 +239,9 @@
                 "name": "Kube-Scout",
                 "link": "https://github.com/ReallyLiri/kubescout",
                 "description": "Scout for alarming issues across your Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.13,
                 "category_rank": 18
             },
@@ -216,7 +252,9 @@
                 "name": "kuberhaus",
                 "link": "https://github.com/stephenlacy/kuberhaus",
                 "description": "Kubernetes resource dashboard with node/pod layout and resource requests",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.07,
                 "category_rank": 19
             },
@@ -227,7 +265,9 @@
                 "name": "linkerd2 Monitoring Mixin for Grafana",
                 "link": "https://github.com/andrew-waters/linkerd2-mixin",
                 "description": "Grafana dashboards for linkerd2 monitoring and can work in standalone (default) or in multi cluster setup",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.02,
                 "category_rank": 20
             }
@@ -252,7 +292,9 @@
                 "name": "Minikube",
                 "link": "https://github.com/kubernetes/minikube",
                 "description": "minikube implements a local Kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 77.79,
                 "category_rank": 1
             },
@@ -263,7 +305,9 @@
                 "name": "KubeSphere",
                 "link": "https://github.com/kubernetes/minikube",
                 "description": "Easy-to-use Production Ready Container Platform",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 70.12,
                 "category_rank": 2
             },
@@ -274,7 +318,9 @@
                 "name": "kind",
                 "link": "https://github.com/kubernetes-sigs/kind",
                 "description": "Kubernetes IN Docker - local clusters for testing Kubernetes https://kind.sigs.k8s.io/d",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 61.25,
                 "category_rank": 3
             },
@@ -285,7 +331,9 @@
                 "name": "Rainbond",
                 "link": "https://github.com/goodrain/rainbond",
                 "description": "Offers a serverless experience, and allows you to easily manage containerized applications without needing to understand Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 11.78,
                 "category_rank": 4
             },
@@ -296,7 +344,9 @@
                 "name": "Otomi",
                 "link": "https://github.com/redkubes/otomi-core",
                 "description": "Self-hosted PaaS for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.85,
                 "category_rank": 5
             },
@@ -307,7 +357,9 @@
                 "name": "k3d",
                 "link": "https://k3d.io/v5.6.3/",
                 "description": "k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker",
-                "publishDate": "2024-04-27T20:38:55.570Z",
+                "publishDate": {
+                    "$date": "2024-04-27T20:38:55.570Z"
+                },
                 "rankedScore": 2.27,
                 "category_rank": 6
             },
@@ -318,7 +370,9 @@
                 "name": "Systemk: virtual kubelet for systemd",
                 "link": "https://github.com/virtual-kubelet/systemk",
                 "description": "Systemk is a systemd backend for the virtual-kubelet. Instead of starting containers, you start systemd units",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.35,
                 "category_rank": 7
             },
@@ -329,7 +383,9 @@
                 "name": "mokbox",
                 "link": "https://github.com/bashtools/mokctl",
                 "description": "Build verifiably conformant multi-node kubernetes clusters in containers",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.25,
                 "category_rank": 8
             },
@@ -340,7 +396,9 @@
                 "name": "skippbox",
                 "link": "https://github.com/skippbox/skippbox",
                 "description": "A Desktop application for k8sd",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.14,
                 "category_rank": 9
             }
@@ -365,7 +423,9 @@
                 "name": "k8sgpt",
                 "link": "https://github.com/k8sgpt-ai/k8sgpt",
                 "description": "Giving Kubernetes SRE superpowers to everyone",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 80.0,
                 "category_rank": 1
             },
@@ -376,7 +436,9 @@
                 "name": "kserve",
                 "link": "https://github.com/kserve/kserve",
                 "description": "Standardized Serverless ML Inference Platform on Kubernets",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 66.85,
                 "category_rank": 2
             },
@@ -387,7 +449,9 @@
                 "name": "aiac",
                 "link": "https://github.com/gofireflyio/aiac",
                 "description": "Artificial Intelligence K8s manifest and package generator",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 39.03,
                 "category_rank": 3
             },
@@ -398,7 +462,9 @@
                 "name": "kubectl-ai",
                 "link": "https://github.com/sozercan/kubectl-ai",
                 "description": "Kubectl plugin for OpenAI GPT",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 11.28,
                 "category_rank": 4
             },
@@ -409,7 +475,9 @@
                 "name": "mico",
                 "link": "https://github.com/tahtaciburak/mico",
                 "description": "An AI assisted kubectl helper",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 10.25,
                 "category_rank": 5
             },
@@ -420,7 +488,9 @@
                 "name": "kopilot",
                 "link": "https://github.com/knight42/kopilot",
                 "description": "Your AI Kubernetes Expert",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.01,
                 "category_rank": 6
             },
@@ -431,7 +501,9 @@
                 "name": "kopylot",
                 "link": "https://github.com/avsthiago/kopylot",
                 "description": "An AI-Powered assistant for Kubernetes developers",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.81,
                 "category_rank": 7
             },
@@ -442,7 +514,9 @@
                 "name": "kubectl-assistant",
                 "link": "https://github.com/dkoshkin/kubectl-assistant",
                 "description": "This tool uses OpenAI's GPT3 API to generate Kubernetes kubectl commands to run against a cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 8
             }
@@ -467,7 +541,9 @@
                 "name": "Stash",
                 "link": "https://github.com/stashed/stash",
                 "description": "🛅 Backup your Kubernetes Stateful Applications",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 90.0,
                 "category_rank": 1
             },
@@ -478,7 +554,9 @@
                 "name": "Reflector",
                 "link": "https://github.com/emberstack/kubernetes-reflector",
                 "description": "Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 66.37,
                 "category_rank": 2
             },
@@ -489,7 +567,9 @@
                 "name": "K8up Backup Operator",
                 "link": "https://github.com/k8up-io/k8up",
                 "description": "K8up is a Kubernetes backup operator based on Restic that will handle PVC and application backups on a Kubernetes or OpenShift cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 44.44,
                 "category_rank": 3
             },
@@ -500,7 +580,9 @@
                 "name": "VolSync",
                 "link": "https://github.com/backube/volsync",
                 "description": "Asynchronous data replication for Kubernetes volumes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 29.3,
                 "category_rank": 4
             },
@@ -511,7 +593,9 @@
                 "name": "Reflector",
                 "link": "https://github.com/backube/snapscheduler",
                 "description": "Scheduled snapshots for Kubernetes persistent volumes.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.26,
                 "category_rank": 5
             },
@@ -522,7 +606,9 @@
                 "name": "kube-dump",
                 "link": "https://github.com/WoozyMasta/kube-dump",
                 "description": "Backup a Kubernetes cluster as a yaml manifest",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.61,
                 "category_rank": 6
             }
@@ -547,7 +633,9 @@
                 "name": "Argo CD",
                 "link": "https://github.com/argoproj/argo-cd",
                 "description": "Declarative continuous deployment for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 80.01,
                 "category_rank": 1
             },
@@ -558,7 +646,9 @@
                 "name": "Skaffold",
                 "link": "https://github.com/GoogleContainerTools/skaffold",
                 "description": "Easy and Repeatable Kubernetes Development",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 49.53,
                 "category_rank": 2
             },
@@ -569,7 +659,9 @@
                 "name": "Flux",
                 "link": "https://github.com/fluxcd/flux",
                 "description": "GitOps Kubernetes operator",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 35.76,
                 "category_rank": 3
             },
@@ -580,7 +672,9 @@
                 "name": "Tekton",
                 "link": "https://github.com/tektoncd/pipeline",
                 "description": "A cloud native continuous integration and delivery (CI/CD) solution",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 31.53,
                 "category_rank": 4
             },
@@ -591,7 +685,9 @@
                 "name": "Spinnaker",
                 "link": "https://github.com/spinnaker/spinnaker",
                 "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. http://www.spinnaker.io/",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 30.73,
                 "category_rank": 5
             },
@@ -602,7 +698,9 @@
                 "name": "flagger",
                 "link": "https://github.com/fluxcd/flagger",
                 "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 27.2,
                 "category_rank": 6
             },
@@ -613,7 +711,9 @@
                 "name": "Devtron",
                 "link": "https://github.com/devtron-labs/devtron",
                 "description": "Software Delivery Workflow for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 17.49,
                 "category_rank": 7
             },
@@ -624,7 +724,9 @@
                 "name": "Jenkins X",
                 "link": "https://github.com/jenkins-x/jx",
                 "description": "Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 15.84,
                 "category_rank": 8
             },
@@ -635,7 +737,9 @@
                 "name": "werf",
                 "link": "https://github.com/werf/werf",
                 "description": "GitOps tool to deliver apps to Kubernetes and integrate this process with GitLab and other CI tools",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 13.48,
                 "category_rank": 9
             },
@@ -646,7 +750,9 @@
                 "name": "Apollo",
                 "link": "https://github.com/logzio/apollo",
                 "description": "Apollo - The logz.io continuous deployment solution over kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 12.01,
                 "category_rank": 10
             },
@@ -657,7 +763,9 @@
                 "name": "Drone",
                 "link": "https://github.com/harness/gitnes",
                 "description": "Drone is a Container-Native, Continuous Delivery Platform",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 9.15,
                 "category_rank": 11
             },
@@ -668,7 +776,9 @@
                 "name": "Kubefirst",
                 "link": "https://github.com/kubefirst/kubefirst",
                 "description": "GitOps Infrastructure & Application Delivery Platform",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 7.07,
                 "category_rank": 12
             },
@@ -679,7 +789,9 @@
                 "name": "Helmsman",
                 "link": "https://github.com/Praqma/helmsman",
                 "description": "Helm Charts as Code",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.88,
                 "category_rank": 13
             },
@@ -690,7 +802,9 @@
                 "name": "PipeCD",
                 "link": "https://github.com/pipe-cd/pipecd",
                 "description": "The One CD for All {applications, platforms, operations}",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.87,
                 "category_rank": 14
             },
@@ -701,7 +815,9 @@
                 "name": "Kluctl",
                 "link": "https://github.com/kluctl/kluctl",
                 "description": "Kluctl implements templated declarative Kubernetes deployments, supporting push (CLI) and pull (kluctl-controller) based GitOps from the same source",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.63,
                 "category_rank": 15
             },
@@ -712,7 +828,9 @@
                 "name": "Helmwave",
                 "link": "https://github.com/helmwave/helmwave",
                 "description": "Helmwave is helm3-native tool for deploy your Helm Charts",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.33,
                 "category_rank": 16
             },
@@ -723,7 +841,9 @@
                 "name": "kubedog",
                 "link": "https://github.com/werf/kubedog",
                 "description": "Library to watch and follow kubernetes resources in CI/CD deploy pipelines",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.02,
                 "category_rank": 17
             },
@@ -734,7 +854,9 @@
                 "name": "autoapply",
                 "link": "https://github.com/autoapply/autoapply",
                 "description": "Automatically apply changes to a Kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.57,
                 "category_rank": 18
             },
@@ -745,7 +867,9 @@
                 "name": "Helm Cabin",
                 "link": "https://github.com/Nick-Triller/helm-cabin",
                 "description": "Web UI that visualizes Helm releases in a Kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.13,
                 "category_rank": 19
             },
@@ -756,7 +880,9 @@
                 "name": "Kubeform",
                 "link": "https://github.com/kubeform/kubeform",
                 "description": "Kubernetes CRDs for Terraform providers https://kubeform.com",
-                "publishDate": "2024-04-27T16:23:20.135Z",
+                "publishDate": {
+                    "$date": "2024-04-27T16:23:20.135Z"
+                },
                 "rankedScore": 0.08,
                 "category_rank": 20
             },
@@ -767,7 +893,9 @@
                 "name": "HybridK8s Droid",
                 "link": "https://hybridk8s.tech",
                 "description": "Intelligence foor your favourite Delivery Platform",
-                "publishDate": "2024-04-27T16:22:18.809Z",
+                "publishDate": {
+                    "$date": "2024-04-27T16:22:18.809Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 21
             }
@@ -792,7 +920,9 @@
                 "name": "harbor",
                 "link": "https://github.com/goharbor/harbor",
                 "description": "A trusted cloud native registry project that stores,caches, signs, and scans content.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 100.0,
                 "category_rank": 1
             },
@@ -803,7 +933,9 @@
                 "name": "kube-fledged",
                 "link": "https://github.com/senthilrch/kube-fledged",
                 "description": "A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.51,
                 "category_rank": 2
             },
@@ -814,7 +946,9 @@
                 "name": "kube-image-keeper (kuik)",
                 "link": "https://github.com/enix/kube-image-keeper",
                 "description": "kuik is a container image caching system for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.39,
                 "category_rank": 3
             },
@@ -825,7 +959,9 @@
                 "name": "kubernetes-image-puller",
                 "link": "https://github.com/che-incubator/kubernetes-image-puller",
                 "description": "It is used for caching images on a cluster. It creates a DaemonSet downloading and running the relevant container images on each node.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.8,
                 "category_rank": 4
             },
@@ -836,7 +972,9 @@
                 "name": "Tugger",
                 "link": "https://github.com/jainishshah17/tugger",
                 "description": "Kubernetes Admission Webhook to enforce pulling of Docker images from the private registry",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.02,
                 "category_rank": 5
             }
@@ -861,7 +999,9 @@
                 "name": "k8s-cleaner",
                 "link": "https://github.com/gianlucam76/k8s-cleaner",
                 "description": "Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale resources",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 100.0,
                 "category_rank": 1
             },
@@ -872,7 +1012,9 @@
                 "name": "kube-fencing",
                 "link": "https://github.com/kvaps/kube-fencing",
                 "description": "cleaning resources from the failed nodes that's blocks any further operation and recovery",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 49.21,
                 "category_rank": 2
             },
@@ -883,7 +1025,9 @@
                 "name": "CRI-Purge",
                 "link": "https://github.com/reefland/cri-purge",
                 "description": "CRI Purge - Cleanup of Cached Kubernetes CRI Images",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 30.0,
                 "category_rank": 3
             }
@@ -908,7 +1052,9 @@
                 "name": "Dapr",
                 "link": "https://github.com/dapr/dapr",
                 "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 91.47,
                 "category_rank": 1
             },
@@ -919,7 +1065,9 @@
                 "name": "DevPod",
                 "link": "https://github.com/loft-sh/devpod",
                 "description": "client-only tool to create reproducible developer environments based on a devcontainer.json on any backend",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 35.08,
                 "category_rank": 2
             },
@@ -930,7 +1078,9 @@
                 "name": "Python Client for Kubernetes",
                 "link": "https://github.com/kubernetes-client/python",
                 "description": "Official Python client library for kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 34.23,
                 "category_rank": 3
             },
@@ -941,7 +1091,9 @@
                 "name": "Java Client for Kubernetes",
                 "link": "https://github.com/kubernetes-client/java",
                 "description": "Official Java client library for kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 19.75,
                 "category_rank": 4
             },
@@ -952,7 +1104,9 @@
                 "name": "Go Client for Kubernetes",
                 "link": "https://github.com/kubernetes-client/go",
                 "description": "Official Golang client library for kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 18.57,
                 "category_rank": 5
             },
@@ -963,7 +1117,9 @@
                 "name": "Javascript Client for Kubernetes",
                 "link": "https://github.com/kubernetes-client/javascript",
                 "description": "Official Javascript client library for kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.52,
                 "category_rank": 6
             },
@@ -974,7 +1130,9 @@
                 "name": "csharp Client for Kubernetes",
                 "link": "https://github.com/kubernetes-client/csharp",
                 "description": "Official dotnet client library for kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.32,
                 "category_rank": 7
             }
@@ -999,7 +1157,9 @@
                 "name": "Rancher",
                 "link": "https://github.com/rancher/rancher",
                 "description": "Complete container management platform",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 82.31,
                 "category_rank": 1
             },
@@ -1010,7 +1170,9 @@
                 "name": "kind",
                 "link": "https://github.com/kubernetes-sigs/kind",
                 "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 70.38,
                 "category_rank": 2
             },
@@ -1021,7 +1183,9 @@
                 "name": "kops",
                 "link": "https://github.com/kubernetes/kops",
                 "description": "Production Grade K8s Installation, Upgrades, and Management",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 55.55,
                 "category_rank": 3
             },
@@ -1032,7 +1196,9 @@
                 "name": "Cert-manager",
                 "link": "https://github.com/cert-manager/cert-manager",
                 "description": "Automatically provision and manage TLS certificates",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 39.22,
                 "category_rank": 4
             },
@@ -1043,7 +1209,9 @@
                 "name": "vCluster",
                 "link": "https://github.com/loft-sh/vcluster",
                 "description": "Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 25.46,
                 "category_rank": 5
             },
@@ -1054,7 +1222,9 @@
                 "name": "Sealed Secrets",
                 "link": "https://github.com/bitnami-labs/sealed-secrets",
                 "description": "A Kubernetes controller and tool for one-way encrypted Secrets",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 24.55,
                 "category_rank": 6
             },
@@ -1065,7 +1235,9 @@
                 "name": "Meshery",
                 "link": "https://github.com/meshery/meshery",
                 "description": "Meshery is a Multi-cluster management tool for Kubernetes and Clouds",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 23.82,
                 "category_rank": 7
             },
@@ -1076,7 +1248,9 @@
                 "name": "Octant",
                 "link": "https://github.com/vmware-archive/octant",
                 "description": "To better understand the complexity of Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 17.98,
                 "category_rank": 8
             },
@@ -1087,7 +1261,9 @@
                 "name": "OpenKruise/Kruise",
                 "link": "https://github.com/openkruise/kruise",
                 "description": "Automate application workloads management on Kubernetes https://openkruise.io",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 14.75,
                 "category_rank": 9
             },
@@ -1098,7 +1274,9 @@
                 "name": "k0s",
                 "link": "https://github.com/k0sproject/k0s",
                 "description": "k0s is an all-inclusive Kubernetes distribution, which is configured with all of the features needed to build a Kubernetes cluster and packaged as a single binary for ease of use",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 13.45,
                 "category_rank": 10
             },
@@ -1109,7 +1287,9 @@
                 "name": "node-problem-detector",
                 "link": "https://github.com/kubernetes/node-problem-detector",
                 "description": "This is a place for various problem detectors running on the Kubernetes nodes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 10.08,
                 "category_rank": 11
             },
@@ -1120,7 +1300,9 @@
                 "name": "Cyclops",
                 "link": "https://github.com/cyclops-ui/cyclops",
                 "description": "a powerful user interface for managing and interacting with Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 9.68,
                 "category_rank": 12
             },
@@ -1131,7 +1313,9 @@
                 "name": "Guard",
                 "link": "https://github.com/kubeguard/guard",
                 "description": "🔑 Kubernetes Authentication & Authorization WebHook Server",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 9.27,
                 "category_rank": 13
             },
@@ -1142,7 +1326,9 @@
                 "name": "kustomizer",
                 "link": "https://github.com/stefanprodan/kustomizer",
                 "description": "An experimental package manager for distributing Kubernetes configuration as OCI artifacts",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.63,
                 "category_rank": 14
             },
@@ -1153,7 +1339,9 @@
                 "name": "cluster-template",
                 "link": "https://github.com/onedr0p/cluster-template",
                 "description": "A template for deploying a Kubernetes cluster with k3s or Talos",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.36,
                 "category_rank": 15
             },
@@ -1164,7 +1352,9 @@
                 "name": "Kubefirst",
                 "link": "https://github.com/kubefirst/kubefirst",
                 "description": "Fully-automated OSS delivery & infrastructure management gitops platforms",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.3,
                 "category_rank": 16
             },
@@ -1175,7 +1365,9 @@
                 "name": "Monokle",
                 "link": "https://github.com/kubeshop/monokle",
                 "description": "Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.85,
                 "category_rank": 17
             },
@@ -1186,7 +1378,9 @@
                 "name": "Kube-ops-view",
                 "link": "https://github.com/hjacobs/kube-ops-view",
                 "description": "Kubernetes Operational View - read-only system dashboard for multiple K8s clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.54,
                 "category_rank": 18
             },
@@ -1197,7 +1391,9 @@
                 "name": "Kudo",
                 "link": "https://github.com/kudobuilder/kudo",
                 "description": "declarative approach to building production-grade Kubernetes Operators",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.14,
                 "category_rank": 19
             },
@@ -1208,7 +1404,9 @@
                 "name": "Kamaji",
                 "link": "https://github.com/clastix/kamaji",
                 "description": "Build and operate Kubernetes at scale with a fraction of operational burden",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.97,
                 "category_rank": 20
             },
@@ -1219,7 +1417,9 @@
                 "name": "xlskubectl",
                 "link": "https://github.com/learnk8s/xlskubectl",
                 "description": "xlskubectl — a spreadsheet to control your Kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.63,
                 "category_rank": 21
             },
@@ -1230,7 +1430,9 @@
                 "name": "Liqo",
                 "link": "https://github.com/liqotech/liqo",
                 "description": "an open-source project that enables dynamic and seamless Kubernetes multi-cluster topologies, supporting heterogeneous on-premise, cloud and edge infrastructures",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.62,
                 "category_rank": 22
             },
@@ -1241,7 +1443,9 @@
                 "name": "kapp",
                 "link": "https://github.com/carvel-dev/kapp",
                 "description": "simple deployment tool focused on the concept of \"Kubernetes application\" — a set of resources with the same label https://get-kapp.io",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.45,
                 "category_rank": 23
             },
@@ -1252,7 +1456,9 @@
                 "name": "Gardener",
                 "link": "https://gardener.cloud",
                 "description": "Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service",
-                "publishDate": "2024-04-20T20:30:09.550Z",
+                "publishDate": {
+                    "$date": "2024-04-20T20:30:09.550Z"
+                },
                 "rankedScore": 3.31,
                 "category_rank": 24
             },
@@ -1263,7 +1469,9 @@
                 "name": "Portainer",
                 "link": "https://github.com/portainer/k8s",
                 "description": "Portainer inside a Kubernetes environment",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.89,
                 "category_rank": 25
             },
@@ -1274,7 +1482,9 @@
                 "name": "Kubeview",
                 "link": "https://github.com/benc-uk/kubeview",
                 "description": "Kubernetes cluster visualiser and visual explorer",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.89,
                 "category_rank": 26
             },
@@ -1285,7 +1495,9 @@
                 "name": "KEDA",
                 "link": "https://keda.sh",
                 "description": "Event-driven autoscaler for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.8,
                 "category_rank": 27
             },
@@ -1296,7 +1508,9 @@
                 "name": "ClusterPedia",
                 "link": "https://github.com/clusterpedia-io/clusterpedia",
                 "description": "The Encyclopedia of Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.62,
                 "category_rank": 28
             },
@@ -1307,7 +1521,9 @@
                 "name": "Claudie",
                 "link": "https://github.com/berops/claudie",
                 "description": "Deploy and operate Kubernetes clusters with eapool in a different provider or on-prem",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.37,
                 "category_rank": 29
             },
@@ -1318,7 +1534,9 @@
                 "name": "k0smotron",
                 "link": "https://github.com/k0sproject/k0smotron",
                 "description": "run Kubernetes control planes within a management cluster and with the integration of Cluster API",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.19,
                 "category_rank": 30
             },
@@ -1329,7 +1547,9 @@
                 "name": "k0smotron",
                 "link": "https://github.com/k0sproject/k0smotron",
                 "description": "Deploy and run Kubernetes control planes powered by k0s on any existing cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.18,
                 "category_rank": 31
             },
@@ -1340,7 +1560,9 @@
                 "name": "Trolley",
                 "link": "https://github.com/Trolley-MGMT/trolleymgmt",
                 "description": "Trolley is a multi cloud Kubernetes management system",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.54,
                 "category_rank": 32
             },
@@ -1351,7 +1573,9 @@
                 "name": "kubean",
                 "link": "https://github.com/kubean-io/kubean",
                 "description": "🌱 Kubernetes lifecycle management operator based on kubespray.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.49,
                 "category_rank": 33
             },
@@ -1362,7 +1586,9 @@
                 "name": "Metalk8s",
                 "link": "https://github.com/scality/metalk8s",
                 "description": "An opinionated Kubernetes distribution with a focus on long-term on-prem deployments",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.28,
                 "category_rank": 34
             },
@@ -1373,7 +1599,9 @@
                 "name": "silver-surfer",
                 "link": "https://github.com/devtron-labs/silver-surfer",
                 "description": "Check ApiVersion compatibility and provide Migration path for Kubernetes objects when upgrading Kubernetes to latest versions",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.23,
                 "category_rank": 35
             },
@@ -1384,7 +1612,9 @@
                 "name": "Clusterman",
                 "link": "https://github.com/Yelp/clusterman",
                 "description": "Cluster Autoscaler for Kubernetes and Mesos",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.99,
                 "category_rank": 36
             },
@@ -1395,7 +1625,9 @@
                 "name": "Goldilocks",
                 "link": "https://github.com/FairwindsOps/goldilock",
                 "description": "Get your resource requests \"Just Right\"",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.89,
                 "category_rank": 37
             },
@@ -1406,7 +1638,9 @@
                 "name": "katafygio",
                 "link": "https://github.com/bpineau/katafygio",
                 "description": "Dump, or continuously backup Kubernetes objets as yaml files in git",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.69,
                 "category_rank": 38
             },
@@ -1417,7 +1651,9 @@
                 "name": "Kubemarine",
                 "link": "https://github.com/Netcracker/KubeMarine",
                 "description": "Management tool for Kubernetes cluster deployment and maintenance",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.53,
                 "category_rank": 39
             },
@@ -1428,7 +1664,9 @@
                 "name": "kubectl snapshot",
                 "link": "https://github.com/fbrubbo/kubectl-snapshot",
                 "description": "Take Cluster Snapshots",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.36,
                 "category_rank": 40
             },
@@ -1439,7 +1677,9 @@
                 "name": "kubeprompt",
                 "link": "https://github.com/jlesquembre/kubeprompt",
                 "description": "Kubernetes prompt info",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.32,
                 "category_rank": 41
             },
@@ -1450,7 +1690,9 @@
                 "name": "punq",
                 "link": "https://github.com/mogenius/punq",
                 "description": "Self-hosted Kubernetes workload manager with team collaboration",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.32,
                 "category_rank": 42
             },
@@ -1461,7 +1703,9 @@
                 "name": "Punq",
                 "link": "https://github.com/mogenius/punq",
                 "description": "A slim open-source workload manager for Kubernetes with team collaboration, WebApp, and CLI.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.32,
                 "category_rank": 43
             },
@@ -1472,7 +1716,9 @@
                 "name": "KindScaler",
                 "link": "https://github.com/lobuhi/kindscaler",
                 "description": "Node Management for KinD Clusters. Modify the KinD cluster configuration by adding or removing nodes, whether they are control-planes or workers, without regenerating it from scratch.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.28,
                 "category_rank": 44
             },
@@ -1483,7 +1729,9 @@
                 "name": "KubeStellar",
                 "link": "a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud",
                 "description": "a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.17,
                 "category_rank": 45
             },
@@ -1494,7 +1742,9 @@
                 "name": "k8s-duplicator",
                 "link": "https://github.com/Nick-Triller/k8s-duplicator",
                 "description": "Kubernetes controller that copies secrets into other namespaces",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.11,
                 "category_rank": 46
             }
@@ -1519,7 +1769,9 @@
                 "name": "K9s",
                 "link": "https://github.com/derailed/k9s",
                 "description": "Kubernetes CLI To Manage Your Clusters In Style!",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 75.42,
                 "category_rank": 1
             },
@@ -1530,7 +1782,9 @@
                 "name": "kubectx + kubens",
                 "link": "https://github.com/ahmetb/kubectx",
                 "description": "Switch faster between clusters and namespaces in kubectl",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 45.13,
                 "category_rank": 2
             },
@@ -1541,7 +1795,9 @@
                 "name": "Autoscaler",
                 "link": "https://github.com/kubernetes/autoscaler",
                 "description": "autoscaler Autoscaling components for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 35.37,
                 "category_rank": 3
             },
@@ -1552,7 +1808,9 @@
                 "name": "Click",
                 "link": "https://github.com/databricks/click",
                 "description": "Command Line Interactive Controller for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 30.28,
                 "category_rank": 4
             },
@@ -1563,7 +1821,9 @@
                 "name": "Karpenter",
                 "link": "https://github.com/aws/karpenter-provider-aws",
                 "description": "Kubernetes Node Autoscaler built for flexibility, performance, and simplicity",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 25.57,
                 "category_rank": 5
             },
@@ -1574,7 +1834,9 @@
                 "name": "Krew",
                 "link": "https://github.com/kubernetes-sigs/krew",
                 "description": "Package manager for kubectl plugins",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 17.24,
                 "category_rank": 6
             },
@@ -1585,7 +1847,9 @@
                 "name": "Descheduler",
                 "link": "https://github.com/kubernetes-sigs/descheduler",
                 "description": "Descheduler for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 12.85,
                 "category_rank": 7
             },
@@ -1596,7 +1860,9 @@
                 "name": "Kubernetes Image Puller",
                 "link": "https://github.com/che-incubator/kubernetes-image-puller",
                 "description": "Caching images on a cluster by creating a DaemonSet downloading and running the container images on each node",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 10.68,
                 "category_rank": 8
             },
@@ -1607,7 +1873,9 @@
                 "name": "Finch",
                 "link": "https://github.com/runfinch/finch",
                 "description": "The Finch CLI an open source client for container development",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 9.89,
                 "category_rank": 9
             },
@@ -1618,7 +1886,9 @@
                 "name": "kube-ps1",
                 "link": "https://github.com/jonmosco/kube-ps1",
                 "description": "Kubernetes prompt for bash and zsh",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 9.12,
                 "category_rank": 10
             },
@@ -1629,7 +1899,9 @@
                 "name": "fleet",
                 "link": "https://github.com/rancher/fleet",
                 "description": "Manage large fleets of Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 9.08,
                 "category_rank": 11
             },
@@ -1640,7 +1912,9 @@
                 "name": "ksync",
                 "link": "https://github.com/collabnix/kubetools",
                 "description": "Sync files between your local system and a kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 8.28,
                 "category_rank": 12
             },
@@ -1651,7 +1925,9 @@
                 "name": "Pluto",
                 "link": "https://github.com/FairwindsOps/pluto",
                 "description": "A cli tool to help discover deprecated apiVersions in Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 7.98,
                 "category_rank": 13
             },
@@ -1662,7 +1938,9 @@
                 "name": "Conftest",
                 "link": "https://github.com/open-policy-agent/conftest",
                 "description": "Write tests against structured configuration data using the Open Policy Agent Rego query language",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 7.72,
                 "category_rank": 14
             },
@@ -1673,7 +1951,9 @@
                 "name": "Kured",
                 "link": "https://github.com/kubereboot/kured",
                 "description": "Kubernetes Reboot Daemon",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 7.3,
                 "category_rank": 15
             },
@@ -1684,7 +1964,9 @@
                 "name": "Kubie",
                 "link": "https://github.com/sbstp/kubie",
                 "description": "A more powerful alternative to kubectx and kubens",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.43,
                 "category_rank": 16
             },
@@ -1695,7 +1977,9 @@
                 "name": "kube-shell",
                 "link": "https://github.com/cloudnativelabs/kube-shell",
                 "description": "Kubernetes shell: An integrated shell for working with Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.87,
                 "category_rank": 17
             },
@@ -1706,7 +1990,9 @@
                 "name": "Kube-capacity",
                 "link": "https://github.com/robscott/kube-capacity",
                 "description": "A CLI that provides an overview of the resource requests, limits, and utilization in a k8s cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.51,
                 "category_rank": 18
             },
@@ -1717,7 +2003,9 @@
                 "name": "kubecolor",
                 "link": "https://github.com/dty1er/kubecolor",
                 "description": "Colorizes kubectl output",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.65,
                 "category_rank": 19
             },
@@ -1728,7 +2016,9 @@
                 "name": "Kube-prompt",
                 "link": "https://github.com/c-bata/kube-prompt",
                 "description": "An interactive kubernetes client featuring auto-complete",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.45,
                 "category_rank": 20
             },
@@ -1739,7 +2029,9 @@
                 "name": "stash",
                 "link": "https://github.com/stashed/stash",
                 "description": "Backup your Kubernetes Stateful Applications",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.43,
                 "category_rank": 21
             },
@@ -1750,7 +2042,9 @@
                 "name": "Bootkube",
                 "link": "https://github.com/kubernetes-sigs/bootkube",
                 "description": "Launch a self-hosted Kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.35,
                 "category_rank": 22
             },
@@ -1761,7 +2055,9 @@
                 "name": "kor",
                 "link": "https://github.com/yonahd/kor",
                 "description": "A Tool to discover unused Kubernetes Resources",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.33,
                 "category_rank": 23
             },
@@ -1772,7 +2068,9 @@
                 "name": "Ktunnel",
                 "link": "https://github.com/omrikiei/ktunnel",
                 "description": "A CLI that exposes your local resources to Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.56,
                 "category_rank": 24
             },
@@ -1783,7 +2081,9 @@
                 "name": "image-builder",
                 "link": "https://github.com/kubernetes-sigs/image-builder",
                 "description": "A tool for building Kubernetes virtual machine images across multiple infrastructure providers.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.53,
                 "category_rank": 25
             },
@@ -1794,7 +2094,9 @@
                 "name": "KubeView",
                 "link": "https://github.com/benc-uk/kubeview",
                 "description": "Kubernetes cluster visualiser and graphical explorer",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.47,
                 "category_rank": 26
             },
@@ -1805,7 +2107,9 @@
                 "name": "cloudtty",
                 "link": "https://github.com/cloudtty/cloudtty",
                 "description": "A Friendly Kubernetes CloudShell (Web Terminal) !",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.57,
                 "category_rank": 27
             },
@@ -1816,7 +2120,9 @@
                 "name": "kubectl sudo",
                 "link": "https://github.com/dtan4/kubectl-sudo",
                 "description": "Run Kubernetes commands with the security privileges of another user",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.5,
                 "category_rank": 28
             },
@@ -1827,7 +2133,9 @@
                 "name": "kuttle",
                 "link": "https://github.com/itaysk/kuttle",
                 "description": "Kubernetes wrapper for sshuttle",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.44,
                 "category_rank": 29
             },
@@ -1838,7 +2146,9 @@
                 "name": "Kueue",
                 "link": "https://github.com/ameerthehacker/kueue",
                 "description": "Set of APIs and controller for job queueing",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.31,
                 "category_rank": 30
             },
@@ -1849,7 +2159,9 @@
                 "name": "KubeOperator",
                 "link": "https://kubeoperator.io/",
                 "description": "Run kubectl command in Web Browser",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 31
             },
@@ -1860,7 +2172,9 @@
                 "name": "Vimkubectl",
                 "link": "https://github.com/WsdlToPhp/Vimkubectl",
                 "description": "Manage any Kubernetes resource from Vim",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 32
             },
@@ -1871,7 +2185,9 @@
                 "name": "KubeHelper",
                 "link": "https://github.com/IlyaKruglov/kube-helper",
                 "description": "Simplify many daily Kubernetes cluster tasks through a web interface",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 33
             },
@@ -1882,7 +2198,9 @@
                 "name": "fubectl",
                 "link": "https://github.com/brendandburns/fubectl",
                 "description": "Reduces repetitive interactions with kubectl",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 34
             }
@@ -1907,7 +2225,9 @@
                 "name": "Microk8s",
                 "link": "https://github.com/canonical/microk8s",
                 "description": "A small, fast, single-package Kubernetes for developers, IoT and edge",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 90.18,
                 "category_rank": 1
             },
@@ -1918,7 +2238,9 @@
                 "name": "KubeEdge",
                 "link": "https://github.com/kubeedge/kubeedge",
                 "description": "Kubernetes Native Edge Computing Framework",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 64.89,
                 "category_rank": 2
             },
@@ -1929,7 +2251,9 @@
                 "name": "kairos",
                 "link": "https://github.com/kairos-io/kairos",
                 "description": "The immutable Linux meta-distribution for edge Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 16.49,
                 "category_rank": 3
             },
@@ -1940,7 +2264,9 @@
                 "name": "OpenYurt",
                 "link": "https://github.com/openyurtio/openyurt",
                 "description": "Extending your native Kubernetes to edge",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 12.59,
                 "category_rank": 4
             },
@@ -1951,7 +2277,9 @@
                 "name": "Shifu",
                 "link": "https://github.com/Edgenesis/shifu",
                 "description": "Kubernetes native IoT software development framework",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 7.44,
                 "category_rank": 5
             },
@@ -1962,7 +2290,9 @@
                 "name": "Akri",
                 "link": "https://github.com/project-akri/akri",
                 "description": "A Kubernetes Resource Interface for the Edge",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.4,
                 "category_rank": 6
             },
@@ -1973,7 +2303,9 @@
                 "name": "SuperEdge",
                 "link": "https://github.com/superedge/superedge",
                 "description": "An edge-native container management system for edge computing",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.92,
                 "category_rank": 7
             },
@@ -1984,7 +2316,9 @@
                 "name": "Keylime",
                 "link": "https://github.com/keylime/keylime",
                 "description": "A CNCF Project to Bootstrap & Maintain Trust on the Edge / Cloud and IoT",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.19,
                 "category_rank": 8
             }
@@ -2009,7 +2343,9 @@
                 "name": "Kubecost",
                 "link": "https://github.com/opencost/opencost",
                 "description": "Cross-cloud cost allocation models for workloads running on Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 100.0,
                 "category_rank": 1
             },
@@ -2020,7 +2356,9 @@
                 "name": "OpenCost",
                 "link": "https://github.com/opencost/opencost",
                 "description": "OpenCost — your favorite open source cost monitoring tool for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 87.44,
                 "category_rank": 2
             },
@@ -2031,7 +2369,9 @@
                 "name": "kube-green",
                 "link": "https://github.com/kube-green/kube-green",
                 "description": "kube-green is a simple k8s addon that automatically shuts down (some of) your resources when you don't need them",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 23.4,
                 "category_rank": 3
             },
@@ -2042,7 +2382,9 @@
                 "name": "PerfectScale",
                 "link": "https://www.perfectscale.io",
                 "description": "Reduce Kubernetes costs while improving performance and resilience with data-driven intelligence built for continuous optimization",
-                "publishDate": "2024-04-28T14:38:49.467Z",
+                "publishDate": {
+                    "$date": "2024-04-28T14:38:49.467Z"
+                },
                 "rankedScore": 12.05,
                 "category_rank": 4
             }
@@ -2067,7 +2409,9 @@
                 "name": "Kaniko",
                 "link": "https://github.com/GoogleContainerTools/kaniko",
                 "description": "Build Container Images In Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 70.65,
                 "category_rank": 1
             },
@@ -2078,7 +2422,9 @@
                 "name": "Terraformer",
                 "link": "https://github.com/GoogleCloudPlatform/terraformer",
                 "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 66.99,
                 "category_rank": 2
             },
@@ -2089,7 +2435,9 @@
                 "name": "RELOADER",
                 "link": "https://github.com/stakater/Reloader",
                 "description": "A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 47.11,
                 "category_rank": 3
             },
@@ -2100,7 +2448,9 @@
                 "name": "Kompose",
                 "link": "https://github.com/kubernetes/kompose",
                 "description": "convert docker compose to kubernetes resources",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 44.49,
                 "category_rank": 4
             },
@@ -2111,7 +2461,9 @@
                 "name": "Tilt: Tilt manages local development instances for teams that deploy to Kubernetes",
                 "link": "https://github.com/tilt-dev/tilt",
                 "description": "Local Kubernetes development with no stress",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 44.37,
                 "category_rank": 5
             },
@@ -2122,7 +2474,9 @@
                 "name": "Python client for kuberenetes",
                 "link": "https://github.com/kubernetes-client/python",
                 "description": "Official Python client library for kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 43.2,
                 "category_rank": 6
             },
@@ -2133,7 +2487,9 @@
                 "name": "ko",
                 "link": "https://github.com/ko-build/ko",
                 "description": "Build and deploy Go applications on Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 43.0,
                 "category_rank": 7
             },
@@ -2144,7 +2500,9 @@
                 "name": "Kubebuilder",
                 "link": "https://github.com/kubernetes-sigs/kubebuilder",
                 "description": "SDK for building Kubernetes APIs using CRDs",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 42.23,
                 "category_rank": 8
             },
@@ -2155,7 +2513,9 @@
                 "name": "Operator-sdk",
                 "link": "https://github.com/operator-framework/operator-sdk",
                 "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 38.9,
                 "category_rank": 9
             },
@@ -2166,7 +2526,9 @@
                 "name": "Tilt",
                 "link": "https://github.com/tilt-dev/tilt",
                 "description": "Define your dev environment as code. For microservice apps on Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 37.3,
                 "category_rank": 10
             },
@@ -2177,7 +2539,9 @@
                 "name": "eclipse che IDE for k8s",
                 "link": "https://github.com/eclipse-che/che",
                 "description": "The Kubernetes-Native IDE for Developer Teams",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 34.46,
                 "category_rank": 11
             },
@@ -2188,7 +2552,9 @@
                 "name": "Garden",
                 "link": "https://github.com/garden-io/garden",
                 "description": "Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 27.21,
                 "category_rank": 12
             },
@@ -2199,7 +2565,9 @@
                 "name": "Helmfile",
                 "link": "https://github.com/helmfile/helmfile",
                 "description": "Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 20.53,
                 "category_rank": 13
             },
@@ -2210,7 +2578,9 @@
                 "name": "cdk8s",
                 "link": "https://github.com/cdk8s-team/cdk8s",
                 "description": "Kubernetes native apps and abstractions using object-oriented programming",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 20.37,
                 "category_rank": 14
             },
@@ -2221,7 +2591,9 @@
                 "name": "Okteto: A Tool for Cloud Native Developers",
                 "link": "https://github.com/okteto/okteto",
                 "description": "Build better applications by developing and testing your code directly in Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 19.94,
                 "category_rank": 15
             },
@@ -2232,7 +2604,9 @@
                 "name": "Arkade",
                 "link": "https://github.com/alexellis/arkade",
                 "description": "Open Source Marketplace For Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 19.45,
                 "category_rank": 16
             },
@@ -2243,7 +2617,9 @@
                 "name": "mirrord",
                 "link": "https://github.com/metalbear-co/mirrord",
                 "description": "Run your local process in the context of your cloud cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 18.16,
                 "category_rank": 17
             },
@@ -2254,7 +2630,9 @@
                 "name": "Gitkube",
                 "link": "https://github.com/hasura/gitkube",
                 "description": "Build and deploy docker images to Kubernetes using git push",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 16.69,
                 "category_rank": 18
             },
@@ -2265,7 +2643,9 @@
                 "name": "Garden: Kubernetes from source to finish",
                 "link": "https://github.com/garden-io/garden",
                 "description": "Development orchestrator for Kubernetes, containers and functions.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 15.92,
                 "category_rank": 19
             },
@@ -2276,7 +2656,9 @@
                 "name": "Spread",
                 "link": "https://github.com/redspread/spread",
                 "description": "Docker to Kubernetes in one command",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 12.34,
                 "category_rank": 20
             },
@@ -2287,7 +2669,9 @@
                 "name": "KubeBlocks",
                 "link": "https://github.com/apecloud/kubeblocks",
                 "description": "open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 11.8,
                 "category_rank": 21
             },
@@ -2298,7 +2682,9 @@
                 "name": "Radius",
                 "link": "https://github.com/radius-project/radius",
                 "description": "Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 11.65,
                 "category_rank": 22
             },
@@ -2309,7 +2695,9 @@
                 "name": "Brigade",
                 "link": "https://github.com/brigadecore/brigade",
                 "description": "Brigade\tEvent-driven scripting for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 11.62,
                 "category_rank": 23
             },
@@ -2320,7 +2708,9 @@
                 "name": "Atomix",
                 "link": "https://github.com/atomix/atomix",
                 "description": "A Kubernetes toolkit for building distributed applications using cloud native principles",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 11.41,
                 "category_rank": 24
             },
@@ -2331,7 +2721,9 @@
                 "name": "KDash",
                 "link": "https://github.com/kdash-rs/kdash",
                 "description": "A simple and fast dashboard for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 9.51,
                 "category_rank": 25
             },
@@ -2342,7 +2734,9 @@
                 "name": "Kubefirst",
                 "link": "https://github.com/kubefirst/kubefirst",
                 "description": "The Kubefirst CLI creates instant GitOps platforms that integrate some of the best tools in cloud native from scratch in minutes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 9.31,
                 "category_rank": 26
             },
@@ -2353,7 +2747,9 @@
                 "name": "Ingress Monitor Controller",
                 "link": "https://github.com/stakater/IngressMonitorController",
                 "description": "A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 9.3,
                 "category_rank": 27
             },
@@ -2364,7 +2760,9 @@
                 "name": "Monokle",
                 "link": "https://github.com/kubeshop/monokle",
                 "description": "Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 9.01,
                 "category_rank": 28
             },
@@ -2375,7 +2773,9 @@
                 "name": "Kueue",
                 "link": "https://github.com/kubernetes-sigs/kueue",
                 "description": "Kubernetes-native Job Queueing",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 8.72,
                 "category_rank": 29
             },
@@ -2386,7 +2786,9 @@
                 "name": "Kubernetes ConfigMap Reload",
                 "link": "https://github.com/jimmidyson/configmap-reload",
                 "description": "Simple binary to trigger a reload when a Kubernetes ConfigMap is updated",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 7.92,
                 "category_rank": 30
             },
@@ -2397,7 +2799,9 @@
                 "name": "Helmify",
                 "link": "https://github.com/arttor/helmify",
                 "description": "Creates Helm chart from Kubernetes yaml",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 7.16,
                 "category_rank": 31
             },
@@ -2408,7 +2812,9 @@
                 "name": "k2tf",
                 "link": "https://github.com/sl1pm4t/k2tf",
                 "description": "k2tf - Kubernetes YAML to Terraform HCL converters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.53,
                 "category_rank": 32
             },
@@ -2419,7 +2825,9 @@
                 "name": "Kor",
                 "link": "https://github.com/yonahd/kor",
                 "description": "A Golang Tool to discover unused Kubernetes Resources",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.33,
                 "category_rank": 33
             },
@@ -2430,7 +2838,9 @@
                 "name": "configmap-reload",
                 "link": "https://github.com/jimmidyson/configmap-reload",
                 "description": "Simple binary to trigger a reload when a Kubernetes ConfigMap is updated",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.12,
                 "category_rank": 34
             },
@@ -2441,7 +2851,9 @@
                 "name": "Docketeer",
                 "link": "https://github.com/open-source-labs/Docketeer",
                 "description": "Docketeer is a developer-friendly application that provides a single interface for container and network management as well as metric visualization.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.92,
                 "category_rank": 35
             },
@@ -2452,7 +2864,9 @@
                 "name": "Config Syncer",
                 "link": "https://github.com/config-syncer/config-syncer",
                 "description": "Config Syncer by AppsCode keeps ConfigMaps and Secrets synchronized across namespaces and/or clusters.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.91,
                 "category_rank": 36
             },
@@ -2463,7 +2877,9 @@
                 "name": "kubernetes-replicator",
                 "link": "https://github.com/mittwald/kubernetes-replicator",
                 "description": "Kubernetes controller for synchronizing secrets & config maps across namespaces",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.57,
                 "category_rank": 37
             },
@@ -2474,7 +2890,9 @@
                 "name": "k'exp",
                 "link": "https://github.com/iximiuz/kexp",
                 "description": "Understand Kubernetes - the visual way Not yet another attempt to manage production clusters in the browser",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.83,
                 "category_rank": 38
             },
@@ -2485,7 +2903,9 @@
                 "name": "validkube",
                 "link": "https://github.com/komodorio/validkube",
                 "description": "ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.7,
                 "category_rank": 39
             },
@@ -2496,7 +2916,9 @@
                 "name": "K8Studio",
                 "link": "https://github.com/guiqui/k8Studio",
                 "description": "K8 Studio is a cross-platform client IDE to manage Kubernetes Clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.64,
                 "category_rank": 40
             },
@@ -2507,7 +2929,9 @@
                 "name": "KuberNix",
                 "link": "https://github.com/saschagrunert/kubernix",
                 "description": "Single dependency Kubernetes clusters for local testing, experimenting and development",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.38,
                 "category_rank": 41
             },
@@ -2518,7 +2942,9 @@
                 "name": "Gefyra",
                 "link": "https://github.com/gefyrahq/gefyra",
                 "description": "Gefyra: Blazingly-fast, rock-solid, local application",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.35,
                 "category_rank": 42
             },
@@ -2529,7 +2955,9 @@
                 "name": "DevSpace",
                 "link": "https://www.devspace.sh",
                 "description": "An open-source developer tool for Kubernetes that lets you develop and deploy cloud-native software faster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.4,
                 "category_rank": 43
             },
@@ -2540,7 +2968,9 @@
                 "name": "Sablier",
                 "link": "https://github.com/acouvreur/sablier",
                 "description": "Start your containers on demand, shut them down automatically when there's no activity.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.18,
                 "category_rank": 44
             },
@@ -2551,7 +2981,9 @@
                 "name": "odo",
                 "link": "https://odo.dev",
                 "description": "Developer-focused CLI for fast & iterative application development on Kubernetes and Podman",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.06,
                 "category_rank": 45
             }
@@ -2576,7 +3008,9 @@
                 "name": "OpenFaaS",
                 "link": "https://github.com/openfaas/faas",
                 "description": "OpenFaaS - Serverless Functions Made Simple",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 73.98,
                 "category_rank": 1
             },
@@ -2587,7 +3021,9 @@
                 "name": "Fission",
                 "link": "https://github.com/fission/fission",
                 "description": "Fast and Simple Serverless Functions for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 23.19,
                 "category_rank": 2
             },
@@ -2598,7 +3034,9 @@
                 "name": "Knative Serving",
                 "link": "https://github.com/knative/serving",
                 "description": "Kubernetes-based, scale-to-zero, request-driven compute",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 19.41,
                 "category_rank": 3
             },
@@ -2609,7 +3047,9 @@
                 "name": "Nuclio",
                 "link": "https://github.com/nuclio/nuclio",
                 "description": "High-Performance Serverless event and data processing platform",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 10.19,
                 "category_rank": 4
             },
@@ -2620,7 +3060,9 @@
                 "name": "Kubeless",
                 "link": "https://github.com/vmware-archive/kubeless",
                 "description": "Kubernetes Native Serverless Framework",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.61,
                 "category_rank": 5
             }
@@ -2645,7 +3087,9 @@
                 "name": "Sealos",
                 "link": "https://github.com/labring/sealos",
                 "description": "A Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 70.0,
                 "category_rank": 1
             },
@@ -2656,7 +3100,9 @@
                 "name": "Porter",
                 "link": "https://github.com/porter-dev/porter",
                 "description": "Kubernetes-powered PaaS that runs in your own cloud.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 20.0,
                 "category_rank": 2
             },
@@ -2667,7 +3113,9 @@
                 "name": "AWS workshop for kubernetes",
                 "link": "https://github.com/aws-samples/aws-workshop-for-kubernetes",
                 "description": "AWS workshop for kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 15.53,
                 "category_rank": 3
             },
@@ -2678,7 +3126,9 @@
                 "name": "Draft: Streamlined Kubernetes Development",
                 "link": "https://github.com/azure/draft",
                 "description": "A tool for developers to create cloud-native applications on Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 12.73,
                 "category_rank": 4
             },
@@ -2689,7 +3139,9 @@
                 "name": "Kubicorn",
                 "link": "https://github.com/kubicorn/kubicorn",
                 "description": "Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 7.96,
                 "category_rank": 5
             },
@@ -2700,7 +3152,9 @@
                 "name": "Kubernetes on AWS (kube-aws)",
                 "link": "https://github.com/kubernetes-retired/kube-aws",
                 "description": "A command-line tool to declaratively manage Kubernetes clusters on AWS",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.29,
                 "category_rank": 6
             },
@@ -2711,7 +3165,9 @@
                 "name": "eksdemo",
                 "link": "https://github.com/awslabs/eksdemo",
                 "description": "The easy button for learning, testing and demoing Amazon EKS",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.14,
                 "category_rank": 7
             },
@@ -2722,7 +3178,9 @@
                 "name": "Skupper",
                 "link": "https://skupper.io",
                 "description": "Multicloud communication for Kubernetes",
-                "publishDate": "2024-04-23T10:23:18.050Z",
+                "publishDate": {
+                    "$date": "2024-04-23T10:23:18.050Z"
+                },
                 "rankedScore": 0.55,
                 "category_rank": 8
             },
@@ -2733,7 +3191,9 @@
                 "name": "helm-ssm",
                 "link": "https://github.com/totango/helm-ssm",
                 "description": "A  low dependency tool for retrieving and injecting secrets from AWS SSM into Helm",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.23,
                 "category_rank": 9
             }
@@ -2758,7 +3218,9 @@
                 "name": "Loki",
                 "link": "https://github.com/grafana/loki",
                 "description": "Like Prometheus, but for logs",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 97.62,
                 "category_rank": 1
             },
@@ -2769,7 +3231,9 @@
                 "name": "Jaeger",
                 "link": "https://github.com/jaegertracing/jaeger",
                 "description": "CNCF Jaeger, a Distributed Tracing Platform",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 72.7,
                 "category_rank": 2
             },
@@ -2780,7 +3244,9 @@
                 "name": "fluentbit",
                 "link": "https://github.com/fluent/fluent-bit",
                 "description": "Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 26.35,
                 "category_rank": 3
             },
@@ -2791,7 +3257,9 @@
                 "name": "retina",
                 "link": "https://github.com/microsoft/retina",
                 "description": "eBPF distributed networking observability tool for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 16.97,
                 "category_rank": 4
             },
@@ -2802,7 +3270,9 @@
                 "name": "ELK",
                 "link": "https://github.com/elastic",
                 "description": "Elasticsearch, Logstash, Kibana",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 16.3,
                 "category_rank": 5
             },
@@ -2813,7 +3283,9 @@
                 "name": "Kiali",
                 "link": "https://github.com/kiali/kiali",
                 "description": "Kiali project, observability for the Istio service mesh",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 10.33,
                 "category_rank": 6
             },
@@ -2824,7 +3296,9 @@
                 "name": "goldpinger",
                 "link": "https://github.com/bloomberg/goldpinger",
                 "description": "Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.76,
                 "category_rank": 7
             },
@@ -2835,7 +3309,9 @@
                 "name": "kail",
                 "link": "https://github.com/boz/kail",
                 "description": "kubernetes log viewer",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.67,
                 "category_rank": 8
             },
@@ -2846,7 +3322,9 @@
                 "name": "network mapper",
                 "link": "https://github.com/otterize/network-mapper",
                 "description": "Map Kubernetes in-cluster traffic and export as text, intents, or an image",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.61,
                 "category_rank": 9
             },
@@ -2857,7 +3335,9 @@
                 "name": "Otterize network mapper",
                 "link": "https://github.com/otterize/network-mapper",
                 "description": "Map Kubernetes in-cluster traffic and export as text, intents, or an image",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.61,
                 "category_rank": 10
             },
@@ -2868,7 +3348,9 @@
                 "name": "k8spacket",
                 "link": "https://github.com/k8spacket/k8spacket",
                 "description": "Packets traffic visualization for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.68,
                 "category_rank": 11
             },
@@ -2879,7 +3361,9 @@
                 "name": "kube-audit-rest",
                 "link": "https://github.com/RichardoC/kube-audit-rest",
                 "description": "Kubernetes audit logging, when you don't control the control plane",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.19,
                 "category_rank": 12
             },
@@ -2890,7 +3374,9 @@
                 "name": "kubectl-mtail",
                 "link": "https://gitlab.com/grzesuav/kubectl-mtail",
                 "description": "tail logs from multiple pods matching label selector",
-                "publishDate": "2024-04-27T19:10:13.674Z",
+                "publishDate": {
+                    "$date": "2024-04-27T19:10:13.674Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 13
             }
@@ -2915,7 +3401,9 @@
                 "name": "Kubeflow",
                 "link": "https://github.com/kubeflow/kubeflow",
                 "description": "Machine Learning Toolkit for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 80.73,
                 "category_rank": 1
             },
@@ -2926,7 +3414,9 @@
                 "name": "Volcano",
                 "link": "https://github.com/volcano-sh/volcano",
                 "description": "A Kubernetes Native Batch System",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 32.68,
                 "category_rank": 2
             },
@@ -2937,7 +3427,9 @@
                 "name": "Nos",
                 "link": "https://github.com/nebuly-ai/nos",
                 "description": "nos is an open-source platform to efficiently run AI workloads on Kubernetes, increasing GPU utilization and reducing infrastructure and operational costs",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 17.5,
                 "category_rank": 3
             }
@@ -2962,7 +3454,9 @@
                 "name": "Pulumi",
                 "link": "https://github.com/pulumi/pulumi",
                 "description": "Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers rocket https://www.pulumi.com",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 87.5,
                 "category_rank": 1
             },
@@ -2973,7 +3467,9 @@
                 "name": "Colima",
                 "link": "https://github.com/abiosoft/colima",
                 "description": "Container runtimes on macOS (and Linux) with minimal setup",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 76.9,
                 "category_rank": 2
             },
@@ -2984,7 +3480,9 @@
                 "name": "Gvisor",
                 "link": "https://github.com/google/gvisor",
                 "description": "Application Kernel for Containers",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 53.08,
                 "category_rank": 3
             },
@@ -2995,7 +3493,9 @@
                 "name": "Kamus",
                 "link": "https://github.com/Soluto/kamus",
                 "description": "An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 13.0,
                 "category_rank": 4
             },
@@ -3006,7 +3506,9 @@
                 "name": "korb",
                 "link": "https://github.com/BeryJu/korb",
                 "description": "Move Kubernetes PVCs between Storage Classes and Namespaces",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.76,
                 "category_rank": 5
             },
@@ -3017,7 +3519,9 @@
                 "name": "Chaos Toolkit Kubernetes Support",
                 "link": "https://github.com/chaostoolkit/chaostoolkit-kubernetes",
                 "description": "Kubernetes driver extension of the Chaos Toolkit probes and actions API",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.14,
                 "category_rank": 6
             },
@@ -3028,7 +3532,9 @@
                 "name": "Krateo Platformops",
                 "link": "https://github.com/krateoplatformops/krateo",
                 "description": "Open source platform to manage infrastructure, resources and applications via YAML files",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.74,
                 "category_rank": 7
             },
@@ -3039,7 +3545,9 @@
                 "name": "k14s",
                 "link": "https://github.com/k14s",
                 "description": "Kubernetes Tools that follow Unix philosophy to be simple and composable",
-                "publishDate": "2024-04-28T15:04:05.271Z",
+                "publishDate": {
+                    "$date": "2024-04-28T15:04:05.271Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 8
             }
@@ -3064,7 +3572,9 @@
                 "name": "Cilium",
                 "link": "https://github.com/cilium/cilium",
                 "description": "eBPF-based Networking, Security, and Observability",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 85.29,
                 "category_rank": 1
             },
@@ -3075,7 +3585,9 @@
                 "name": "Calico",
                 "link": "https://github.com/projectcalico/calico",
                 "description": "Cloud native connectivity and network policy",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 41.65,
                 "category_rank": 2
             },
@@ -3086,7 +3598,9 @@
                 "name": "MetalLB",
                 "link": "https://github.com/metallb/metallb",
                 "description": "MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 28.61,
                 "category_rank": 3
             },
@@ -3097,7 +3611,9 @@
                 "name": "submariner",
                 "link": "https://github.com/submariner-io/submariner",
                 "description": "Networking component for interconnecting Pods and Services across Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 17.75,
                 "category_rank": 4
             },
@@ -3108,7 +3624,9 @@
                 "name": "Network Policy API",
                 "link": "https://github.com/kubernetes-sigs/network-policy-api",
                 "description": "A further work involving Kubernetes network security beyond the NetworkPolicy v1 resource.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 17.51,
                 "category_rank": 5
             },
@@ -3119,7 +3637,9 @@
                 "name": "kubefwd (Kube Forward)",
                 "link": "https://github.com/txn2/kubefwd",
                 "description": "Bulk port forwarding Kubernetes services for local development",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 13.51,
                 "category_rank": 6
             },
@@ -3130,7 +3650,9 @@
                 "name": "Submariner",
                 "link": "https://github.com/redhat-nfvpe/kokotap",
                 "description": "Connect all your Kubernetes clusters, no matter where they are in the world",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 10.14,
                 "category_rank": 7
             },
@@ -3141,7 +3663,9 @@
                 "name": "Kilo (k8s + wg)",
                 "link": "https://github.com/squat/kilo",
                 "description": "A multi-cloud network overlay built on WireGuard and designed for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.45,
                 "category_rank": 8
             },
@@ -3152,7 +3676,9 @@
                 "name": "LoxiLB",
                 "link": "https://github.com/loxilb-io/loxilb",
                 "description": "eBPF based cloud-native load-balancer. Powering K8s,Edge,5G,IoT,XaaS Apps",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.08,
                 "category_rank": 9
             },
@@ -3163,7 +3689,9 @@
                 "name": "Spiderpool",
                 "link": "https://github.com/spidernet-io/spiderpool",
                 "description": "Underlay network solution of cloud native, for bare metal, VM and public cloud",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.9,
                 "category_rank": 10
             },
@@ -3174,7 +3702,9 @@
                 "name": "netfetch",
                 "link": "https://github.com/deggja/netfetch",
                 "description": "Scan k8s clusters for network policies and identifying unprotected workloads.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.2,
                 "category_rank": 11
             },
@@ -3185,7 +3715,9 @@
                 "name": "egress-operator",
                 "link": "https://github.com/monzo/egress-operator",
                 "description": "An operator to produce egress gateway pods and control access to them with network policies",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.68,
                 "category_rank": 12
             },
@@ -3196,7 +3728,9 @@
                 "name": "kokotap",
                 "link": "https://github.com/redhat-nfvpe/kokotap",
                 "description": "Tools for Kubernetes pod network tapping",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 13
             }
@@ -3221,7 +3755,9 @@
                 "name": "capsule",
                 "link": "https://github.com/projectcapsule/capsule",
                 "description": "Capsule helps to implement a multi-tenancy and policy-based environment in your Kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 96.6,
                 "category_rank": 1
             },
@@ -3232,7 +3768,9 @@
                 "name": "kpt",
                 "link": "https://github.com/kptdev/kpt",
                 "description": "toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 70.94,
                 "category_rank": 2
             },
@@ -3243,7 +3781,9 @@
                 "name": "Rudr",
                 "link": "https://github.com/oam-dev/rudr",
                 "description": "A Kubernetes implementation of the Open Application Model specification",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 57.54,
                 "category_rank": 3
             },
@@ -3254,7 +3794,9 @@
                 "name": "kube-fledged",
                 "link": "https://github.com/senthilrch/kube-fledged",
                 "description": "A kubernetes add-on for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 48.59,
                 "category_rank": 4
             },
@@ -3265,7 +3807,9 @@
                 "name": "Cabin, the mobile app for Kubernetes -",
                 "link": "https://github.com/vmware-archive/cabin",
                 "description": "The Mobile Dashboard for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 27.65,
                 "category_rank": 5
             },
@@ -3276,7 +3820,9 @@
                 "name": "Funktion",
                 "link": "https://github.com/funktionio/funktion",
                 "description": "CLI tool for working with funktion",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 16.04,
                 "category_rank": 6
             },
@@ -3287,7 +3833,9 @@
                 "name": "Projectsveltos",
                 "link": "https://github.com/projectsveltos/addon-controller",
                 "description": "Kubernetes add-on controller for hundreds of clusters that automatically discovers and classifies clusters, making it easy to manage add-ons at scale",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 14.16,
                 "category_rank": 7
             },
@@ -3298,7 +3846,9 @@
                 "name": "BUCK",
                 "link": "https://github.com/brigadecore/buck",
                 "description": "Brigade Universal Controller for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 13.05,
                 "category_rank": 8
             },
@@ -3309,7 +3859,9 @@
                 "name": "MayFly",
                 "link": "https://github.com/NCCloud/mayfly",
                 "description": "Mayfly is a Kubernetes operator that enables you to create temporary resources on the cluster that will expire after a certain period of time",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 11.45,
                 "category_rank": 9
             },
@@ -3320,7 +3872,9 @@
                 "name": "routernetes",
                 "link": "https://github.com/routernetes/routernetes",
                 "description": "Use Kubernetes to make a home router!",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.84,
                 "category_rank": 10
             },
@@ -3331,7 +3885,9 @@
                 "name": "kube-job",
                 "link": "https://github.com/h3poteto/kube-job",
                 "description": "Run one off job on kubernetes from the command line tool",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.14,
                 "category_rank": 11
             },
@@ -3342,7 +3898,9 @@
                 "name": "Alterant",
                 "link": "https://github.com/cloud66-oss/alterant",
                 "description": "A simple Kubernetes configuration modifier",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.75,
                 "category_rank": 12
             },
@@ -3353,7 +3911,9 @@
                 "name": "Keel",
                 "link": "https://keel.sh",
                 "description": "Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates",
-                "publishDate": "2024-04-23T11:50:10.405Z",
+                "publishDate": {
+                    "$date": "2024-04-23T11:50:10.405Z"
+                },
                 "rankedScore": 1.75,
                 "category_rank": 13
             },
@@ -3364,7 +3924,9 @@
                 "name": "Symbiosis",
                 "link": "https://symbiosis.host",
                 "description": "Symbiosis is a cloud service provider optimized for Kubernetes. Launch clusters in <2 min with better tools and lower costs",
-                "publishDate": "2024-04-23T11:58:40.511Z",
+                "publishDate": {
+                    "$date": "2024-04-23T11:58:40.511Z"
+                },
                 "rankedScore": 0.71,
                 "category_rank": 14
             },
@@ -3375,7 +3937,9 @@
                 "name": "yupd",
                 "link": "https://github.com/srozange/yupd",
                 "description": "Yupd is a command-line tool that allows updating YAML files the GitOps way",
-                "publishDate": "2024-04-23T12:01:20.381Z",
+                "publishDate": {
+                    "$date": "2024-04-23T12:01:20.381Z"
+                },
                 "rankedScore": 0.13,
                 "category_rank": 15
             },
@@ -3386,7 +3950,9 @@
                 "name": "yupd",
                 "link": "https://github.com/srozange/yupd",
                 "description": "Yupd is a command-line tool that allows updating YAML files the GitOps way",
-                "publishDate": "2024-04-23T12:01:20.385Z",
+                "publishDate": {
+                    "$date": "2024-04-23T12:01:20.385Z"
+                },
                 "rankedScore": 0.13,
                 "category_rank": 16
             },
@@ -3397,7 +3963,9 @@
                 "name": "yupd",
                 "link": "https://github.com/srozange/yupd",
                 "description": "Yupd is a command-line tool that allows updating YAML files the GitOps way",
-                "publishDate": "2024-04-23T12:01:20.401Z",
+                "publishDate": {
+                    "$date": "2024-04-23T12:01:20.401Z"
+                },
                 "rankedScore": 0.13,
                 "category_rank": 17
             },
@@ -3408,7 +3976,9 @@
                 "name": "KubeSlice",
                 "link": "https://github.com/kubeslice",
                 "description": "KubeSlice enables Kubernetes pods and services to communicate seamlessly across clusters, clouds, edges, and data centers by creating logical application boundaries known as Slices",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 18
             }
@@ -3433,7 +4003,9 @@
                 "name": "kube-state-metrics",
                 "link": "https://github.com/kubernetes/kube-state-metrics",
                 "description": "Add-on agent to generate and expose cluster-level metrics",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 70.24,
                 "category_rank": 1
             },
@@ -3444,7 +4016,9 @@
                 "name": "Chaos Mesh",
                 "link": "https://github.com/chaos-mesh/chaos-mesh",
                 "description": "A Chaos Engineering Platform for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 69.95,
                 "category_rank": 2
             },
@@ -3455,7 +4029,9 @@
                 "name": "Popeye",
                 "link": "https://github.com/derailed/popeye",
                 "description": "A Kubernetes cluster resource sanitizer",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 54.56,
                 "category_rank": 3
             },
@@ -3466,7 +4042,9 @@
                 "name": "Stern",
                 "link": "https://github.com/stern/stern",
                 "description": "Multi pod and container log tailing for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 48.75,
                 "category_rank": 4
             },
@@ -3477,7 +4055,9 @@
                 "name": "Grafana Tempo",
                 "link": "https://github.com/grafana/tempo",
                 "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 44.74,
                 "category_rank": 5
             },
@@ -3488,7 +4068,9 @@
                 "name": "Headlamp",
                 "link": "https://github.com/headlamp-k8s/headlamp",
                 "description": "An easy-to-use and extensible web UI for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 31.76,
                 "category_rank": 6
             },
@@ -3499,7 +4081,9 @@
                 "name": "Robusta",
                 "link": "https://github.com/robusta-dev/robusta",
                 "description": "Kubernetes observability and automation, with an awesome Prometheus integration",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 29.88,
                 "category_rank": 7
             },
@@ -3510,7 +4094,9 @@
                 "name": "kubectl tree 🎄",
                 "link": "https://github.com/ahmetb/kubectl-tree",
                 "description": "Kubectl plugin to observe object hierarchies through ownerReferences",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 28.64,
                 "category_rank": 8
             },
@@ -3521,7 +4107,9 @@
                 "name": "Pumba",
                 "link": "https://github.com/alexei-led/pumba",
                 "description": "Chaos testing, network emulation, and stress testing tool for containers",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 27.64,
                 "category_rank": 9
             },
@@ -3532,7 +4120,9 @@
                 "name": "Kubespy",
                 "link": "https://github.com/pulumi/kubespy",
                 "description": "Tools for observing Kubernetes resources in real time",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 26.74,
                 "category_rank": 10
             },
@@ -3543,7 +4133,9 @@
                 "name": "Kubewatch",
                 "link": "https://github.com/vmware-archive/kubewatch",
                 "description": "Watch k8s events and trigger Handlers",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 25.77,
                 "category_rank": 11
             },
@@ -3554,7 +4146,9 @@
                 "name": "Kubebox",
                 "link": "https://github.com/astefanutti/kubebox",
                 "description": "Terminal and Web console for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 20.85,
                 "category_rank": 12
             },
@@ -3565,7 +4159,9 @@
                 "name": "Cri-tools",
                 "link": "https://github.com/kubernetes-sigs/cri-tools",
                 "description": "CLI and validation tools for Kubelet Container Runtime Interface (CRI)",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 20.65,
                 "category_rank": 13
             },
@@ -3576,7 +4172,9 @@
                 "name": "OpenTelemetry",
                 "link": "https://opentelemetry.io",
                 "description": "High-quality, ubiquitous, and portable telemetry to enable effective observability",
-                "publishDate": "2024-04-23T10:01:28.853Z",
+                "publishDate": {
+                    "$date": "2024-04-23T10:01:28.853Z"
+                },
                 "rankedScore": 20.21,
                 "category_rank": 14
             },
@@ -3587,7 +4185,9 @@
                 "name": "chaoskube",
                 "link": "https://github.com/linki/chaoskube",
                 "description": "chaoskube periodically kills random pods in your Kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 17.88,
                 "category_rank": 15
             },
@@ -3598,7 +4198,9 @@
                 "name": "Sloop",
                 "link": "https://github.com/salesforce/sloop?utm_sq=g90yo8t8s1",
                 "description": "Kubernetes History Visualization",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 15.56,
                 "category_rank": 16
             },
@@ -3609,7 +4211,9 @@
                 "name": "kubernetes-event-exporter",
                 "link": "https://github.com/opsgenie/kubernetes-event-exporter",
                 "description": "Export Kubernetes events to multiple destinations with routing and filtering",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 12.88,
                 "category_rank": 17
             },
@@ -3620,7 +4224,9 @@
                 "name": "Tracetest",
                 "link": "https://github.com/kubeshop/tracetest",
                 "description": "Generate end-to-end and integration tests automatically from your OpenTelemetry traces",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 11.95,
                 "category_rank": 18
             },
@@ -3631,7 +4237,9 @@
                 "name": "kubeinvaders",
                 "link": "https://github.com/lucky-sideburn/kubeinvaders",
                 "description": "Gamified Chaos Engineering Tool for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 10.72,
                 "category_rank": 19
             },
@@ -3642,7 +4250,9 @@
                 "name": "Lemur",
                 "link": "https://github.com/turbonomic/lemur",
                 "description": "LEMUR: Observability and Context",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.13,
                 "category_rank": 20
             },
@@ -3653,7 +4263,9 @@
                 "name": "BotKube",
                 "link": "https://botkube.io",
                 "description": "Helps you monitor your Kubernetes cluster(s), debug critical deployments and gives recommendations for standard practices",
-                "publishDate": "2024-04-23T09:54:35.441Z",
+                "publishDate": {
+                    "$date": "2024-04-23T09:54:35.441Z"
+                },
                 "rankedScore": 1.49,
                 "category_rank": 21
             },
@@ -3664,7 +4276,9 @@
                 "name": "Kubestone",
                 "link": "https://kubestone.io/en/latest",
                 "description": "Kubestone is a benchmarking Operator that can evaluate the performance of Kubernetes installations",
-                "publishDate": "2024-04-23T09:56:16.424Z",
+                "publishDate": {
+                    "$date": "2024-04-23T09:56:16.424Z"
+                },
                 "rankedScore": 0.24,
                 "category_rank": 22
             },
@@ -3675,7 +4289,9 @@
                 "name": "Kubevious",
                 "link": "https://kubevious.io",
                 "description": "Kubevious is an app-centric assurance, validation, and introspection platform for Kubernetes",
-                "publishDate": "2024-04-23T10:00:16.037Z",
+                "publishDate": {
+                    "$date": "2024-04-23T10:00:16.037Z"
+                },
                 "rankedScore": 0.24,
                 "category_rank": 23
             }
@@ -3700,7 +4316,9 @@
                 "name": "kubetail",
                 "link": "https://github.com/johanhaleby/kubetail",
                 "description": "Bash script to tail Kubernetes logs from multiple pods at the same time",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 100.0,
                 "category_rank": 1
             },
@@ -3711,7 +4329,9 @@
                 "name": "kube-s3",
                 "link": "https://github.com/freegroup/kube-s3",
                 "description": "Kubernetes pods used shared S3 storage",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 35.0,
                 "category_rank": 2
             },
@@ -3722,7 +4342,9 @@
                 "name": "kubectl-ports-rs",
                 "link": "https://github.com/widnyana/kubectl-ports-rs",
                 "description": "A kubectl krew plugin to provide a list of exposed ports on kubernetes Pod resources",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 30.0,
                 "category_rank": 3
             }
@@ -3747,7 +4369,9 @@
                 "name": "Trivy",
                 "link": "https://github.com/aquasecurity/trivy",
                 "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 72.4,
                 "category_rank": 1
             },
@@ -3758,7 +4382,9 @@
                 "name": "Simulator",
                 "link": "https://github.com/controlplaneio/simulator",
                 "description": "Kubernetes Security Training Platform - Focusing on security mitigation",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 32.69,
                 "category_rank": 2
             },
@@ -3769,7 +4395,9 @@
                 "name": "Clair",
                 "link": "https://github.com/quay/clair",
                 "description": "Vulnerability Static Analysis for Containers",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 31.61,
                 "category_rank": 3
             },
@@ -3780,7 +4408,9 @@
                 "name": "kube-bench",
                 "link": "https://github.com/aquasecurity/kube-bench",
                 "description": "CIS Kubernetes Benchmark tool",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 25.5,
                 "category_rank": 4
             },
@@ -3791,7 +4421,9 @@
                 "name": "Datree",
                 "link": "https://github.com/datreeio/datree",
                 "description": "CLI tool to prevent K8s misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 17.36,
                 "category_rank": 5
             },
@@ -3802,7 +4434,9 @@
                 "name": "Hubble",
                 "link": "https://github.com/cilium/hubble",
                 "description": "Network, Service & Security Observability for Kubernetes using eBPF",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 16.12,
                 "category_rank": 6
             },
@@ -3813,7 +4447,9 @@
                 "name": "kube-hunter",
                 "link": "https://github.com/aquasecurity/kube-hunter",
                 "description": "Pentesting tool - Hunts for security weaknesses in Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 13.84,
                 "category_rank": 7
             },
@@ -3824,7 +4460,9 @@
                 "name": "TerraScan",
                 "link": "https://github.com/tenable/terrascan",
                 "description": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 13.77,
                 "category_rank": 8
             },
@@ -3835,7 +4473,9 @@
                 "name": "Kubeval",
                 "link": "https://github.com/instrumenta/kubeval",
                 "description": "Validate your Kubernetes configuration files, supports multiple Kubernetes versions",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 8.96,
                 "category_rank": 9
             },
@@ -3846,7 +4486,9 @@
                 "name": "Falco",
                 "link": "https://falco.org",
                 "description": "The Falco Project - Cloud-Native runtime security",
-                "publishDate": "2024-04-22T21:08:46.428Z",
+                "publishDate": {
+                    "$date": "2024-04-22T21:08:46.428Z"
+                },
                 "rankedScore": 8.93,
                 "category_rank": 10
             },
@@ -3857,7 +4499,9 @@
                 "name": "KubeLinter",
                 "link": "https://github.com/stackrox/kube-linter",
                 "description": "KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 8.65,
                 "category_rank": 11
             },
@@ -3868,7 +4512,9 @@
                 "name": "Kyverno",
                 "link": "https://github.com/nirmata/kyverno",
                 "description": "Kubernetes Native Policy Management",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 8.24,
                 "category_rank": 12
             },
@@ -3879,7 +4525,9 @@
                 "name": "kubesec",
                 "link": "https://github.com/controlplaneio/kubesec",
                 "description": "Security risk analysis for Kubernetes resources",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.36,
                 "category_rank": 13
             },
@@ -3890,7 +4538,9 @@
                 "name": "kube2iam",
                 "link": "https://github.com/jtblin/kube2iam",
                 "description": "IAM credentials to containers running inside a Kubernetes cluster based on annotations.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.05,
                 "category_rank": 14
             },
@@ -3901,7 +4551,9 @@
                 "name": "Kubeaudit",
                 "link": "https://github.com/Shopify/kubeaudit",
                 "description": "kubeaudit helps you audit your Kubernetes clusters against common security controls",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.86,
                 "category_rank": 15
             },
@@ -3912,7 +4564,9 @@
                 "name": "kiosk",
                 "link": "https://github.com/loft-sh/kiosk",
                 "description": "Kiosk office Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.25,
                 "category_rank": 16
             },
@@ -3923,7 +4577,9 @@
                 "name": "starboard",
                 "link": "https://github.com/aquasecurity/starboard",
                 "description": "Kubernetes-native security toolkit",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.37,
                 "category_rank": 17
             },
@@ -3934,7 +4590,9 @@
                 "name": "Peirates",
                 "link": "https://github.com/inguardians/peirates",
                 "description": "Kubernetes Penetration Testing tool",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 3.58,
                 "category_rank": 18
             },
@@ -3945,7 +4603,9 @@
                 "name": "Audit2rbac",
                 "link": "https://github.com/liggitt/audit2rbac",
                 "description": "Autogenerate RBAC policies based on Kubernetes audit logs",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.97,
                 "category_rank": 19
             },
@@ -3956,7 +4616,9 @@
                 "name": "Paralus",
                 "link": "https://github.com/paralus/paralus",
                 "description": "Paralus enables controlled, audited access to Kubernetes infrastructure and Zero trust Kubernetes with zero friction",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.93,
                 "category_rank": 20
             },
@@ -3967,7 +4629,9 @@
                 "name": "kubestriker",
                 "link": "https://github.com/vchinnipilli/kubestriker",
                 "description": "Security Auditing tool",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.79,
                 "category_rank": 21
             },
@@ -3978,7 +4642,9 @@
                 "name": "rbac-tool",
                 "link": "https://github.com/alcideio/rbac-tool",
                 "description": "Rapid7 insightCloudSec Kubernetes RBAC Power Toys - Visualize, Analyze, Generate & Query",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.73,
                 "category_rank": 22
             },
@@ -3989,7 +4655,9 @@
                 "name": "Vault-k8s",
                 "link": "https://github.com/hashicorp/vault-k8s",
                 "description": "First-class support for Vault and Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.59,
                 "category_rank": 23
             },
@@ -4000,7 +4668,9 @@
                 "name": "Hardeneks",
                 "link": "https://github.com/aws-samples/hardeneks",
                 "description": "Runs checks to see if an EKS cluster follows EKS Best Practices",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.52,
                 "category_rank": 24
             },
@@ -4011,7 +4681,9 @@
                 "name": "RBAC Lookup",
                 "link": "https://github.com/FairwindsOps/rbac-lookup",
                 "description": "Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.5,
                 "category_rank": 25
             },
@@ -4022,7 +4694,9 @@
                 "name": "kube-who-can",
                 "link": "https://github.com/aquasecurity/kubectl-who-can",
                 "description": "Show who has RBAC permissions to perform actions on different resources in Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 2.41,
                 "category_rank": 26
             },
@@ -4033,7 +4707,9 @@
                 "name": "KubeZoo",
                 "link": "https://github.com/kubewharf/kubezoo",
                 "description": "a lightweight kubernetes multi-tenancy gateway",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.95,
                 "category_rank": 27
             },
@@ -4044,7 +4720,9 @@
                 "name": "Krane",
                 "link": "https://github.com/appvia/krane",
                 "description": "Kubernetes RBAC static Analysis & visualisation tool",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.91,
                 "category_rank": 28
             },
@@ -4055,7 +4733,9 @@
                 "name": "klum",
                 "link": "https://github.com/ibuildthecloud/klum",
                 "description": "Kubernetes Lazy User Manager",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.54,
                 "category_rank": 29
             },
@@ -4066,7 +4746,9 @@
                 "name": "Kubectl-kubesec",
                 "link": "https://github.com/controlplaneio/kubectl-kubesec",
                 "description": "Security risk analysis for Kubernetes resources",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.42,
                 "category_rank": 30
             },
@@ -4077,7 +4759,9 @@
                 "name": "Gangway",
                 "link": "https://github.com/vmware-archive/gangway",
                 "description": "An application that can be used to easily enable authentication flows via OIDC for a Kubernetes cluster",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.38,
                 "category_rank": 31
             },
@@ -4088,7 +4772,9 @@
                 "name": "M9sweeper",
                 "link": "https://github.com/m9sweeper/m9sweeper",
                 "description": "Complete Kubernetes Security Platform",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.75,
                 "category_rank": 32
             },
@@ -4099,7 +4785,9 @@
                 "name": "MTKPI",
                 "link": "https://github.com/r0binak/MTKPI",
                 "description": "🧰 Multi Tool Kubernetes Pentest Image",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.61,
                 "category_rank": 33
             },
@@ -4110,7 +4798,9 @@
                 "name": "jsPolicy",
                 "link": "https://github.com/pavan-kumar-99/medium-manifests/tree/jsPolicy",
                 "description": "jsPolicy is a policy engine for Kubernetes that allows you to write policies in JavaScript or TypeScript",
-                "publishDate": "2024-04-22T21:38:19.159Z",
+                "publishDate": {
+                    "$date": "2024-04-22T21:38:19.159Z"
+                },
                 "rankedScore": 0.57,
                 "category_rank": 34
             },
@@ -4121,7 +4811,9 @@
                 "name": "kubectl-modify-secrets",
                 "link": "https://github.com/rajatjindal/kubectl-modify-secret",
                 "description": "allows user to directly modify the secret without worrying about base64 encoding/decoding",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.49,
                 "category_rank": 35
             },
@@ -4132,7 +4824,9 @@
                 "name": "IceKube",
                 "link": "https://github.com/WithSecureLabs/IceKube",
                 "description": "IceKube is a tool to help find attack paths within a Kubernetes cluster from a low privileged point, to a preferred location, typically cluster-admin",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.47,
                 "category_rank": 36
             },
@@ -4143,7 +4837,9 @@
                 "name": "Netchecks",
                 "link": "https://github.com/hardbyte/netchecks/",
                 "description": "Set of tools for testing network conditions and asserting that they are as expected.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.42,
                 "category_rank": 37
             },
@@ -4154,7 +4850,9 @@
                 "name": "kube-rebac-authorizer",
                 "link": "https://github.com/luxas/kube-rebac-authorizer",
                 "description": "Beyond RBAC: Implementing Relation-based Access Control for Kubernetes with OpenFGA",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.17,
                 "category_rank": 38
             },
@@ -4165,7 +4863,9 @@
                 "name": "Kubevious CLI",
                 "link": "https://github.com/kubevious/cli",
                 "description": "Prevent cross-manifest errors and violations of best practices in YAML files, Helm Charts and Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.15,
                 "category_rank": 39
             },
@@ -4176,7 +4876,9 @@
                 "name": "Chartsec",
                 "link": "https://github.com/banzaicloud/chartsec",
                 "description": "Helm Chart security scanner",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.13,
                 "category_rank": 40
             }
@@ -4201,7 +4903,9 @@
                 "name": "Traefik",
                 "link": "https://github.com/traefik/traefik",
                 "description": "The Cloud Native Edge Router",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 77.59,
                 "category_rank": 1
             },
@@ -4212,7 +4916,9 @@
                 "name": "Istio",
                 "link": "https://github.com/istio/istio",
                 "description": "Connect, secure, control, and observe services",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 64.61,
                 "category_rank": 2
             },
@@ -4223,7 +4929,9 @@
                 "name": "APISIX",
                 "link": "https://github.com/apache/apisix",
                 "description": "Apache APISIX is a dynamic, real-time, high-performance API gateway.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 21.73,
                 "category_rank": 3
             },
@@ -4234,7 +4942,9 @@
                 "name": "Kong",
                 "link": "https://github.com/Kong/kubernetes-ingress-controller",
                 "description": "Kong for Kubernetes: the official Ingress Controller for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 15.52,
                 "category_rank": 4
             },
@@ -4245,7 +4955,9 @@
                 "name": "NGINX Ingress Controller",
                 "link": "https://github.com/nginxinc/kubernetes-ingress",
                 "description": "NGINX and NGINX Plus Ingress Controllers for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 12.33,
                 "category_rank": 5
             },
@@ -4256,7 +4968,9 @@
                 "name": "Contour",
                 "link": "https://projectcontour.io",
                 "description": "High performance ingress controller for Kubernetes",
-                "publishDate": "2024-04-23T08:39:30.512Z",
+                "publishDate": {
+                    "$date": "2024-04-23T08:39:30.512Z"
+                },
                 "rankedScore": 11.18,
                 "category_rank": 6
             },
@@ -4267,7 +4981,9 @@
                 "name": "OSM",
                 "link": "https://github.com/openservicemesh/osm",
                 "description": "Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.31,
                 "category_rank": 7
             },
@@ -4278,7 +4994,9 @@
                 "name": "Autopilot",
                 "link": "https://docs.solo.io/autopilot/latest",
                 "description": "THE SERVICE MESH SDK",
-                "publishDate": "2024-04-23T08:34:02.328Z",
+                "publishDate": {
+                    "$date": "2024-04-23T08:34:02.328Z"
+                },
                 "rankedScore": 3.51,
                 "category_rank": 8
             },
@@ -4289,7 +5007,9 @@
                 "name": "MerBridge",
                 "link": "https://github.com/merbridge/merbridge",
                 "description": "Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.05,
                 "category_rank": 9
             },
@@ -4300,7 +5020,9 @@
                 "name": "linkerd-config",
                 "link": "https://github.com/ihcsim/linkerd-config",
                 "description": "A Kubernetes controller that knows how to reconcile the Linkerd configuration",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.01,
                 "category_rank": 10
             },
@@ -4311,7 +5033,9 @@
                 "name": "Gloo Mesh",
                 "link": "https://github.com/solo-io/gloo-mesh",
                 "description": "The Service Mesh Orchestration Platform",
-                "publishDate": "2024-04-23T08:37:55.070Z",
+                "publishDate": {
+                    "$date": "2024-04-23T08:37:55.070Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 11
             },
@@ -4322,7 +5046,9 @@
                 "name": "Kusk Gateway",
                 "link": "https://kusk.io",
                 "description": "OpenAPI-driven Ingress Controller for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 12
             }
@@ -4347,7 +5073,9 @@
                 "name": "SeaweedFS",
                 "link": "https://github.com/seaweedfs/seaweedfs",
                 "description": "Distributed file system supports read-write many volumes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 70.65,
                 "category_rank": 1
             },
@@ -4358,7 +5086,9 @@
                 "name": "Vitess",
                 "link": "https://github.com/vitessio/vitess",
                 "description": "Vitess is a database clustering system for horizontal scaling of MySQL",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 59.63,
                 "category_rank": 2
             },
@@ -4369,7 +5099,9 @@
                 "name": "Rook",
                 "link": "https://github.com/rook/rook",
                 "description": "Storage Orchestration for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 57.37,
                 "category_rank": 3
             },
@@ -4380,7 +5112,9 @@
                 "name": "TiKV",
                 "link": "https://github.com/tikv/tikv",
                 "description": "Distributed transactional key-value database",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 47.37,
                 "category_rank": 4
             },
@@ -4391,7 +5125,9 @@
                 "name": "Longhorn",
                 "link": "https://github.com/longhorn/longhorn",
                 "description": "Cloud-Native distributed block storage built on and for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 40.88,
                 "category_rank": 5
             },
@@ -4402,7 +5138,9 @@
                 "name": "velero",
                 "link": "https://github.com/vmware-tanzu/velero",
                 "description": "Backup and migrate Kubernetes applications and their persistent volumes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 37.72,
                 "category_rank": 6
             },
@@ -4413,7 +5151,9 @@
                 "name": "OpenEBS",
                 "link": "https://github.com/openebs/openebs",
                 "description": "Kubernetes native - hyperconverged block storage with multiple storage engines",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 28.1,
                 "category_rank": 7
             },
@@ -4424,7 +5164,9 @@
                 "name": "ChubaoFS",
                 "link": "https://github.com/cubefs/cubefs",
                 "description": "distributed file system and object storage",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 13.7,
                 "category_rank": 8
             },
@@ -4435,7 +5177,9 @@
                 "name": "TopoLVM",
                 "link": "https://github.com/topolvm/topolvm",
                 "description": "Capacity-aware CSI plugin for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.76,
                 "category_rank": 9
             },
@@ -4446,7 +5190,9 @@
                 "name": "kaDalu",
                 "link": "https://github.com/kadalu/kadalu",
                 "description": "A lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.59,
                 "category_rank": 10
             },
@@ -4457,7 +5203,9 @@
                 "name": "hwameistor",
                 "link": "https://github.com/hwameistor/hwameistor",
                 "description": "Hwameistor is an HA local storage system for cloud-native stateful workloads.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.0,
                 "category_rank": 11
             }
@@ -4482,7 +5230,9 @@
                 "name": "k6d",
                 "link": "https://github.com/grafana/k6",
                 "description": "A modern load testing tool, using Go and JavaScrip",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 71.0,
                 "category_rank": 1
             },
@@ -4493,7 +5243,9 @@
                 "name": "Keploy",
                 "link": "https://github.com/keploy/keploy",
                 "description": "Open source Tool for converting user-traffic to Test Cases and Data Stubs.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 25.32,
                 "category_rank": 2
             },
@@ -4504,7 +5256,9 @@
                 "name": "Litmusd",
                 "link": "https://github.com/litmuschaos/litmus",
                 "description": "Cloud-Native Chaos Engineering; Kubernetes-Native Chaos Engineering; Chaos Engineering for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 14.59,
                 "category_rank": 3
             },
@@ -4515,7 +5269,9 @@
                 "name": "Kyverno",
                 "link": "https://github.com/nirmata/kyverno",
                 "description": "Kubernetes Native Policy Management https://kyverno.io",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 13.9,
                 "category_rank": 4
             },
@@ -4526,7 +5282,9 @@
                 "name": "KWOK",
                 "link": "https://github.com/kubernetes-sigs/kwok",
                 "description": "Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 11.49,
                 "category_rank": 5
             },
@@ -4537,7 +5295,9 @@
                 "name": "Nighthawk",
                 "link": "https://github.com/layer5io/getnighthawk",
                 "description": "Nighthawk is Layer5's versatile HTTP load tester. Drills deep with constant & adaptive rates, revealing performance insights",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 10.76,
                 "category_rank": 6
             },
@@ -4548,7 +5308,9 @@
                 "name": "kube2iam",
                 "link": "https://github.com/jtblin/kube2iam",
                 "description": "IAM credentials to containers running inside a kubernetes cluster based on annotations.",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.91,
                 "category_rank": 7
             },
@@ -4559,7 +5321,9 @@
                 "name": "PowerfulSeald",
                 "link": "https://github.com/powerfulseal/powerfulseal",
                 "description": "A powerful testing tool for Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 6.32,
                 "category_rank": 8
             },
@@ -4570,7 +5334,9 @@
                 "name": "Tracetest",
                 "link": "https://github.com/kubeshop/tracetest",
                 "description": "Generate end-to-end and integration tests automatically from your OpenTelemetry traces",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.97,
                 "category_rank": 9
             },
@@ -4581,7 +5347,9 @@
                 "name": "Testkube",
                 "link": "https://github.com/kubeshop/testkube",
                 "description": "Kubernetes-native testing framework for testers and developers",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.61,
                 "category_rank": 10
             },
@@ -4592,7 +5360,9 @@
                 "name": "perf-tests",
                 "link": "https://github.com/kubernetes/perf-tests",
                 "description": "Performance tests and benchmarks",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.09,
                 "category_rank": 11
             },
@@ -4603,7 +5373,9 @@
                 "name": "Network bandwith and load testingd -",
                 "link": "https://github.com/mrahbar/k8s-testsuite",
                 "description": "Test suite for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.53,
                 "category_rank": 12
             },
@@ -4614,7 +5386,9 @@
                 "name": "Netchecks",
                 "link": "https://github.com/hardbyte/netchecks",
                 "description": "Tool to validate assumptions about the network",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.41,
                 "category_rank": 13
             },
@@ -4625,7 +5399,9 @@
                 "name": "Microcks",
                 "link": "Kubernetes native tool for mocking and testing API and micro-services",
                 "description": "Kubernetes native tool for mocking and testing API and micro-services",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.38,
                 "category_rank": 14
             },
@@ -4636,7 +5412,9 @@
                 "name": "kube-burnerd",
                 "link": "https://kube-burner.readthedocs.io/en/latest/",
                 "description": "Kube-burner is a tool aimed at stressing kubernetes clusters",
-                "publishDate": "2024-04-22T22:17:43.427Z",
+                "publishDate": {
+                    "$date": "2024-04-22T22:17:43.427Z"
+                },
                 "rankedScore": 1.0,
                 "category_rank": 15
             }
@@ -4661,7 +5439,9 @@
                 "name": "K9s",
                 "link": "https://github.com/derailed/k9s",
                 "description": "Kubernetes CLI To Manage Your Clusters In Style!",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 100.0,
                 "category_rank": 1
             },
@@ -4672,7 +5452,9 @@
                 "name": "kubent",
                 "link": "https://github.com/doitintl/kube-no-trouble",
                 "description": "Easily check your clusters for use of deprecated APIs",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 8.9,
                 "category_rank": 2
             },
@@ -4683,7 +5465,9 @@
                 "name": "Kubectl-debug",
                 "link": "https://github.com/aylei/kubectl-debug",
                 "description": "Allows you to run a new container with all the troubleshooting tools installed in running pod for debugging purposed",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.9,
                 "category_rank": 3
             },
@@ -4694,7 +5478,9 @@
                 "name": "Monokle",
                 "link": "https://github.com/kubeshop/monokle",
                 "description": "Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 5.57,
                 "category_rank": 4
             },
@@ -4705,7 +5491,9 @@
                 "name": "PowerfulSeal",
                 "link": "https://github.com/powerfulseal/powerfulseal",
                 "description": "A powerful testing tool for Kubernetes clusters",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 4.8,
                 "category_rank": 5
             },
@@ -4716,7 +5504,9 @@
                 "name": "KubeSkoop",
                 "link": "https://github.com/alibaba/kubeskoop",
                 "description": "Kubernetes networking diagnose tool for different CNI plug-ins and IAAS providers",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.52,
                 "category_rank": 6
             },
@@ -4727,7 +5517,9 @@
                 "name": "Kubernetes CLI Plugin - Doctor",
                 "link": "https://github.com/emirozer/kubectl-doctor",
                 "description": "kubectl cluster triage plugin for k8s - 🏥 (brew doctor equivalent)d",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 1.25,
                 "category_rank": 7
             },
@@ -4738,7 +5530,9 @@
                 "name": "Koolkits",
                 "link": "https://github.com/lightrun-platform/koolkits",
                 "description": "🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.84,
                 "category_rank": 8
             },
@@ -4749,7 +5543,9 @@
                 "name": "kpexec",
                 "link": "https://github.com/ssup2/kpexec",
                 "description": "kpexec is a kubernetes cli that runs commands in a container with high privileges",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.47,
                 "category_rank": 9
             },
@@ -4760,7 +5556,9 @@
                 "name": "Crash-diagnostic",
                 "link": "https://github.com/vmware-tanzu/crash-diagnostics",
                 "description": "Crash-Diagnostics is a tool to help investigate, analyze, and troubleshoot unresponsive or crashed Kubernetes clustersd",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.45,
                 "category_rank": 10
             },
@@ -4771,7 +5569,9 @@
                 "name": "Kubeman",
                 "link": "https://github.com/walmartlabs/kubeman",
                 "description": "To find information from Kubernetes clusters, and to investigate issues related to Kubernetes and Istiod",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.33,
                 "category_rank": 11
             },
@@ -4782,7 +5582,9 @@
                 "name": "kubespy",
                 "link": "https://github.com/huazhihao/kubespy",
                 "description": "pod debugging tool for kubernetes clusters with docker runtimes",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.24,
                 "category_rank": 12
             },
@@ -4793,7 +5595,9 @@
                 "name": "Knative Inspect",
                 "link": "https://github.com/nimakaviani/knative-inspect",
                 "description": "A light-weight debugging tool for Knative's system components",
-                "publishDate": "2024-05-14T08:43:52.017Z",
+                "publishDate": {
+                    "$date": "2024-05-14T08:43:52.017Z"
+                },
                 "rankedScore": 0.01,
                 "category_rank": 13
             }
