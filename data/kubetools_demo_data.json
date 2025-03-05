@@ -8,7 +8,7 @@
         },
         "index": 1,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -242,7 +242,7 @@
         },
         "index": 8,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -355,7 +355,7 @@
         },
         "index": 2,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -457,7 +457,7 @@
         },
         "index": 22,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -537,7 +537,7 @@
         },
         "index": 3,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -782,7 +782,7 @@
         },
         "index": 27,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -851,7 +851,7 @@
         },
         "index": 4,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -898,7 +898,7 @@
         },
         "index": 28,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -989,7 +989,7 @@
         },
         "index": 12,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -1509,7 +1509,7 @@
         },
         "index": 9,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -1897,7 +1897,7 @@
         },
         "index": 19,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -1999,7 +1999,7 @@
         },
         "index": 24,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -2057,7 +2057,7 @@
         },
         "index": 7,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -2566,7 +2566,7 @@
         },
         "index": 25,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -2635,7 +2635,7 @@
         },
         "index": 20,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -2748,7 +2748,7 @@
         },
         "index": 5,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -2905,7 +2905,7 @@
         },
         "index": 18,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -2952,7 +2952,7 @@
         },
         "index": 23,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -3054,7 +3054,7 @@
         },
         "index": 11,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -3211,7 +3211,7 @@
         },
         "index": 29,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -3423,7 +3423,7 @@
         },
         "index": 17,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -3690,7 +3690,7 @@
         },
         "index": 26,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -3737,7 +3737,7 @@
         },
         "index": 10,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -4191,7 +4191,7 @@
         },
         "index": 16,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -4337,7 +4337,7 @@
         },
         "index": 21,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -4472,7 +4472,7 @@
         },
         "index": 15,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
@@ -4651,7 +4651,7 @@
         },
         "index": 6,
         "publishDate": {
-            "$date": NaN
+            "$date": "nan"
         },
         "tools": [
             {
